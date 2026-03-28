@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://studloans.com/sitemap.xml
+Sitemap: https://returnmytax.com/sitemap.xml
