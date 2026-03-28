@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aihowtoinvest.com/sitemap.xml
