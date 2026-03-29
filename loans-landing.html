@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StudLoans — Your Student Loans Could Be Forgiven</title>
+<meta name="description" content="Free guides to student loan forgiveness programs. Find out if you qualify based on your profession and state.">
+<link rel="canonical" href="https://studloans.com/landing">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<meta property="og:title" content="StudLoans — Your Student Loans Could Be Forgiven">
+<meta property="og:description" content="Free guides to student loan forgiveness programs. Find out if you qualify based on your profession and state.">
+<meta property="og:url" content="https://studloans.com/landing">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="StudLoans — Your Student Loans Could Be Forgiven">
+<meta name="twitter:description" content="Free guides to student loan forgiveness programs. Find out if you qualify based on your profession and state.">
+
+<style>
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+img { max-width: 100%; height: auto; }
+a { text-decoration: none; color: inherit; }
+
+body {
+    color: #1e293b;
+    direction: ltr;
+}
+.hero {
+    background: linear-gradient(135deg, #064e3b 0%, #059669 100%);
+    color: #ffffff;
+    padding: 80px 24px;
+    text-align: center;
+}
+.hero h1 {
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 800;
+    margin-bottom: 16px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.15;
+}
+.hero p {
+    font-size: 1.15rem;
+    opacity: 0.9;
+    max-width: 560px;
+    margin: 0 auto 32px;
+}
+.cta-btn {
+    display: inline-block;
+    padding: 16px 40px;
+    background: #ffffff;
+    color: #059669;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+.cta-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+}
+.features-section {
+    padding: 80px 24px;
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+.features-section h2 {
+    font-size: 2rem;
+    margin-bottom: 48px;
+    font-weight: 700;
+}
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 32px;
+}
+.feature-card {
+    padding: 32px 24px;
+    border-radius: 16px;
+    background: #f8fafc;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+.feature-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.08);
+}
+.feature-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #064e3b 0%, #059669 100%);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    margin: 0 auto 16px;
+}
+.feature-card h3 {
+    font-size: 1.15rem;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+.feature-card p {
+    font-size: 0.93rem;
+    color: #64748b;
+    line-height: 1.5;
+}
+.stats-section {
+    background: #f1f5f9;
+    padding: 48px 24px;
+}
+.stats-grid {
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.stat {
+    text-align: center;
+}
+.stat-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #059669;
+}
+.stat-label {
+    font-size: 0.95rem;
+    color: #64748b;
+    margin-top: 4px;
+}
+.testimonials-section {
+    padding: 80px 24px;
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+.testimonials-section h2 {
+    font-size: 2rem;
+    margin-bottom: 48px;
+    font-weight: 700;
+}
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+}
+.testimonial-card {
+    background: #f8fafc;
+    border-radius: 16px;
+    padding: 28px 24px;
+    text-align: ltr;
+}
+.testimonial-text {
+    font-size: 1rem;
+    color: #475569;
+    margin-bottom: 16px;
+    font-style: italic;
+    line-height: 1.6;
+}
+.testimonial-author strong {
+    display: block;
+    font-size: 0.95rem;
+}
+.testimonial-author span {
+    font-size: 0.85rem;
+    color: #94a3b8;
+}
+.faq-section {
+    padding: 80px 24px;
+    max-width: 720px;
+    margin: 0 auto;
+}
+.faq-section h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+.faq-item {
+    border-bottom: 1px solid #e2e8f0;
+    overflow: hidden;
+}
+.faq-question {
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 20px 0;
+    font-size: 1.05rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    text-align: ltr;
+    color: #1e293b;
+    font-family: inherit;
+}
+.faq-chevron {
+    transition: transform 0.3s ease;
+    font-size: 0.85rem;
+    color: #94a3b8;
+}
+.faq-item.open .faq-chevron {
+    transform: rotate(180deg);
+}
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease;
+}
+.faq-item.open .faq-answer {
+    max-height: 300px;
+}
+.faq-answer p {
+    padding: 0 0 20px;
+    color: #64748b;
+    line-height: 1.7;
+}
+.footer {
+    background: #0f172a;
+    color: #94a3b8;
+    text-align: center;
+    padding: 32px 24px;
+    font-size: 0.85rem;
+}
+.footer a {
+    color: #cbd5e1;
+    margin: 0 12px;
+}
+.footer a:hover {
+    color: #ffffff;
+}
+@media (max-width: 640px) {
+    .hero { padding: 56px 20px; }
+    .features-section, .testimonials-section { padding: 56px 20px; }
+    .stats-grid { gap: 32px; }
+    .stat-value { font-size: 2rem; }
+}
+</style>
+</head>
+<body>
+<!-- Hero -->
+<section class="hero">
+    <h1>Your Student Loans Could Be Forgiven</h1>
+    <p>Free eligibility guides for every forgiveness program. Find out in 2 minutes if you qualify.</p>
+    <a href="https://studloans.com/student-loan-forgiveness-for-teachers?utm_source=landing_page&utm_medium=cta&utm_campaign=studloans" class="cta-btn">Check Your Eligibility</a>
+</section>
+
+<section class="stats-section"><div class="stats-grid"><div class="stat"><div class="stat-value">$1.7T</div><div class="stat-label">Total Student Debt</div></div>
+<div class="stat"><div class="stat-value">20+</div><div class="stat-label">Profession Guides</div></div>
+<div class="stat"><div class="stat-value">10+</div><div class="stat-label">State Programs</div></div>
+</div></section>
+
+<!-- Features -->
+<section class="features-section">
+    <h2>Why Choose Us</h2>
+    <div class="features-grid">
+
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-user-tie"></i></div>
+                <h3>Profession-Specific Guides</h3>
+                <p>Tailored forgiveness info for teachers, nurses, doctors, and more</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-flag-usa"></i></div>
+                <h3>State Programs</h3>
+                <p>Find state-specific loan assistance in all 50 states</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-route"></i></div>
+                <h3>PSLF Navigator</h3>
+                <p>Step-by-step Public Service Loan Forgiveness guide</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-calculator"></i></div>
+                <h3>Income-Driven Plans</h3>
+                <p>Compare SAVE, PAYE, IBR, and ICR repayment plans</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-bell"></i></div>
+                <h3>Deadline Alerts</h3>
+                <p>Never miss a forgiveness application deadline</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon"><i class="fas fa-gift"></i></div>
+                <h3>100% Free</h3>
+                <p>No paid consultations. No hidden services. Just free info.</p>
+            </div>
+    </div>
+</section>
+
+
+            <section class="testimonials-section">
+                <h2>What People Say</h2>
+                <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"Found out I qualified for PSLF after 6 years of payments I didn't know counted."</p>
+                    <div class="testimonial-author">
+                        <strong>David M.</strong>
+                        <span>Government Employee</span>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"The teacher forgiveness guide saved me $17,500."</p>
+                    <div class="testimonial-author">
+                        <strong>Amanda T.</strong>
+                        <span>High School Teacher</span>
+                    </div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"Clear explanation of all the confusing repayment plans."</p>
+                    <div class="testimonial-author">
+                        <strong>Chris P.</strong>
+                        <span>Nurse</span>
+                    </div>
+                </div></div>
+            </section>
+
+
+            <section class="faq-section">
+                <h2>Frequently Asked Questions</h2>
+                
+                <div class="faq-item">
+                    <button class="faq-question" onclick="this.parentElement.classList.toggle('open')">
+                        <span>How do I know if my loans qualify?</span>
+                        <i class="fas fa-chevron-down faq-chevron"></i>
+                    </button>
+                    <div class="faq-answer"><p>Federal Direct Loans qualify for most programs. Our guides walk you through checking your loan types and eligibility for each program.</p></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" onclick="this.parentElement.classList.toggle('open')">
+                        <span>Is PSLF still available?</span>
+                        <i class="fas fa-chevron-down faq-chevron"></i>
+                    </button>
+                    <div class="faq-answer"><p>Yes, Public Service Loan Forgiveness is active. You need 120 qualifying payments while working for a government or nonprofit employer.</p></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" onclick="this.parentElement.classList.toggle('open')">
+                        <span>Will forgiveness affect my taxes?</span>
+                        <i class="fas fa-chevron-down faq-chevron"></i>
+                    </button>
+                    <div class="faq-answer"><p>Under current law through 2025, forgiven student loan amounts are not taxable. Check our guides for the latest tax implications.</p></div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" onclick="this.parentElement.classList.toggle('open')">
+                        <span>How long does forgiveness take?</span>
+                        <i class="fas fa-chevron-down faq-chevron"></i>
+                    </button>
+                    <div class="faq-answer"><p>It depends on the program: 10 years for PSLF, 20-25 years for income-driven repayment, or immediate for specific profession programs.</p></div>
+                </div>
+            </section>
+            <script type="application/ld+json">
+            {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I know if my loans qualify?", "acceptedAnswer": {"@type": "Answer", "text": "Federal Direct Loans qualify for most programs. Our guides walk you through checking your loan types and eligibility for each program."}}, {"@type": "Question", "name": "Is PSLF still available?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Public Service Loan Forgiveness is active. You need 120 qualifying payments while working for a government or nonprofit employer."}}, {"@type": "Question", "name": "Will forgiveness affect my taxes?", "acceptedAnswer": {"@type": "Answer", "text": "Under current law through 2025, forgiven student loan amounts are not taxable. Check our guides for the latest tax implications."}}, {"@type": "Question", "name": "How long does forgiveness take?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on the program: 10 years for PSLF, 20-25 years for income-driven repayment, or immediate for specific profession programs."}}]}
+            </script>
+
+<!-- Footer -->
+<footer class="footer">
+    <p>&copy; 2026 StudLoans &mdash; <a href="https://studloans.com?utm_source=landing_page&utm_medium=footer">StudLoans</a></p>
+</footer>
+</body>
+</html>
