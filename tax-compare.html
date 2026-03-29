@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>למה ReturnMyTax? — ReturnMyTax</title>
+<meta name="description" content="מדריכים חינמיים להחזרי מס. גלה אילו הוצאות אתה יכול לנכות ואיך לקבל את ההחזר המקסימלי.">
+<link rel="canonical" href="https://returnmytax.com/compare">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<meta property="og:title" content="למה ReturnMyTax? — ReturnMyTax">
+<meta property="og:description" content="מדריכים חינמיים להחזרי מס. גלה אילו הוצאות אתה יכול לנכות ואיך לקבל את ההחזר המקסימלי.">
+<meta property="og:url" content="https://returnmytax.com/compare">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="למה ReturnMyTax? — ReturnMyTax">
+<meta name="twitter:description" content="מדריכים חינמיים להחזרי מס. גלה אילו הוצאות אתה יכול לנכות ואיך לקבל את ההחזר המקסימלי.">
+
+<style>
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+img { max-width: 100%; height: auto; }
+a { text-decoration: none; color: inherit; }
+
+body {
+    color: #1e293b;
+    direction: rtl;
+}
+.comp-hero {
+    background: linear-gradient(135deg, #7f1d1d 0%, #dc2626 100%);
+    color: #ffffff;
+    padding: 72px 24px;
+    text-align: center;
+}
+.comp-hero h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 800;
+    margin-bottom: 12px;
+}
+.comp-hero p {
+    font-size: 1.1rem;
+    opacity: 0.85;
+}
+.table-wrapper {
+    max-width: 900px;
+    margin: -32px auto 0;
+    padding: 0 16px;
+    position: relative;
+    z-index: 1;
+    overflow-x: auto;
+}
+.comp-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+    font-size: 0.95rem;
+}
+.comp-table th, .comp-table td {
+    padding: 16px 20px;
+    text-align: center;
+}
+.comp-table thead th {
+    background: #f8fafc;
+    font-weight: 700;
+    font-size: 0.95rem;
+    border-bottom: 2px solid #e2e8f0;
+}
+.comp-table thead th:first-child {
+    text-align: rtl;
+}
+.comp-table thead th.ours {
+    background: #dc2626;
+    color: #fff;
+}
+.feature-name {
+    text-align: rtl;
+    font-weight: 600;
+}
+.check i { color: #22c55e; font-size: 1.2rem; }
+.check.ours i { color: #dc2626; font-size: 1.3rem; }
+.cross i { color: #e2e8f0; font-size: 1.2rem; }
+.comp-table tr:not(:last-child) td {
+    border-bottom: 1px solid #f1f5f9;
+}
+.cta-section {
+    text-align: center;
+    padding: 56px 24px;
+}
+.cta-btn {
+    display: inline-block;
+    padding: 16px 48px;
+    background: linear-gradient(135deg, #7f1d1d 0%, #dc2626 100%);
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+.cta-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+}
+.why-section {
+    padding: 80px 24px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.why-section h2 {
+    font-size: 2rem;
+    margin-bottom: 48px;
+    font-weight: 700;
+}
+.why-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 32px;
+}
+.why-card {
+    padding: 28px 20px;
+    border-radius: 16px;
+    background: #f8fafc;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+.why-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(0,0,0,0.08);
+}
+.why-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #7f1d1d 0%, #dc2626 100%);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    margin: 0 auto 14px;
+}
+.why-card h3 { font-size: 1.1rem; margin-bottom: 6px; }
+.why-card p { font-size: 0.9rem; color: #64748b; }
+.footer {
+    background: #0f172a;
+    color: #94a3b8;
+    text-align: center;
+    padding: 32px 24px;
+    font-size: 0.85rem;
+}
+@media (max-width: 640px) {
+    .comp-table th, .comp-table td { padding: 12px 10px; font-size: 0.85rem; }
+}
+</style>
+</head>
+<body>
+<section class="comp-hero">
+    <h1>למה ReturnMyTax?</h1>
+    <p>ראה איך ReturnMyTax משתווה למתחרים</p>
+</section>
+
+<div class="table-wrapper">
+<table class="comp-table">
+<thead>
+    <tr>
+        <th>תכונה</th>
+        <th class="ours">ReturnMyTax</th>
+        <th>TurboTax</th><th>IRS.gov</th><th>H&R Block</th>
+    </tr>
+</thead>
+<tbody>
+<tr><td class='feature-name'>מונע AI</td><td class="check ours"><i class="fas fa-check-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td></tr>
+<tr><td class='feature-name'>פשוט למתחילים</td><td class="check ours"><i class="fas fa-check-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td></tr>
+<tr><td class='feature-name'>חינם לגמרי</td><td class="check ours"><i class="fas fa-check-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td></tr>
+<tr><td class='feature-name'>מעשי ויישומי</td><td class="check ours"><i class="fas fa-check-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td><td class="cross"><i class="fas fa-times-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td></tr>
+<tr><td class='feature-name'>מעודכן ל-2026</td><td class="check ours"><i class="fas fa-check-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td><td class="check"><i class="fas fa-check-circle"></i></td></tr>
+
+</tbody>
+</table>
+</div>
+
+<section class="cta-section">
+    <a href="https://returnmytax.com?utm_source=comparison&utm_medium=cta&utm_campaign=returnmytax" class="cta-btn">נסה את ReturnMyTax בחינם</a>
+</section>
+
+<section class="why-section">
+    <h2>למה לבחור ב-ReturnMyTax?</h2>
+    <div class="why-grid">
+
+            <div class="why-card">
+                <div class="why-icon"><i class="fas fa-bolt"></i></div>
+                <h3>מהיר וקל</h3>
+                <p>מידע ברור ופשוט, בלי בלאגן.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fas fa-shield-alt"></i></div>
+                <h3>ללא תשלום</h3>
+                <p>חינם לגמרי. בלי הפתעות.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fas fa-sync-alt"></i></div>
+                <h3>תמיד מעודכן</h3>
+                <p>התוכן מתעדכן באופן שוטף.</p>
+            </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <p>&copy; 2026 ReturnMyTax</p>
+</footer>
+</body>
+</html>
