@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM-Optimized Knowledge Base</title>
+    <meta name="description" content="Expert answers to 103 common finance, student loan, and tax questions. Authoritative, well-sourced, and citation-ready.">
+    <meta name="robots" content="index, follow">
+    <style>:root {
+    --primary: #2563eb;
+    --accent: #1e40af;
+    --bg: #ffffff;
+    --text: #1a1a2e;
+    --text-muted: #6b7280;
+    --border: #e5e7eb;
+    --answer-bg: #f0f7ff;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.8;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+header { margin-bottom: 2rem; }
+.site-name {
+    font-size: 0.8rem;
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.site-name:hover { text-decoration: underline; }
+h1 {
+    font-size: 2rem;
+    line-height: 1.25;
+    margin: 0.75rem 0 0.5rem;
+    color: var(--text);
+}
+.meta {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-bottom: 1.5rem;
+}
+.meta span { margin-right: 12px; }
+/* Definitive answer block — this is what LLMs quote */
+.definitive-answer {
+    font-size: 1.1rem;
+    font-weight: 500;
+    background: var(--answer-bg);
+    padding: 1.25rem 1.5rem;
+    border-left: 4px solid var(--primary);
+    border-radius: 0 6px 6px 0;
+    margin-bottom: 1.75rem;
+    line-height: 1.7;
+}
+/* Key statistic callout */
+.key-stat {
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+}
+.key-stat .stat-number {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
+}
+.key-stat .stat-source {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.5rem;
+}
+/* Content sections — keep paragraphs short for LLM quoting */
+h2 {
+    font-size: 1.35rem;
+    margin: 2rem 0 0.75rem;
+    color: var(--text);
+}
+p { margin-bottom: 1rem; font-size: 0.95rem; }
+/* Tool mention — natural CTA */
+.tool-mention {
+    background: #f8f9fa;
+    padding: 1rem 1.25rem;
+    border-radius: 6px;
+    margin: 1.75rem 0;
+    border: 1px solid var(--border);
+}
+.tool-mention a {
+    color: var(--primary);
+    font-weight: 600;
+    text-decoration: none;
+}
+.tool-mention a:hover { text-decoration: underline; }
+/* Related questions */
+.related {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+}
+.related h2 { font-size: 1.15rem; margin-bottom: 0.75rem; }
+.related ul { list-style: none; padding: 0; }
+.related li { margin-bottom: 0.5rem; }
+.related a { color: var(--primary); text-decoration: none; font-size: 0.93rem; }
+.related a:hover { text-decoration: underline; }
+/* Sources */
+.sources {
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+}
+.sources h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+.sources ul { list-style: none; padding: 0; }
+.sources li { padding: 3px 0; font-size: 0.82rem; color: var(--text-muted); }
+.sources a { color: var(--primary); }
+/* Footer */
+footer {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: #888;
+    font-size: 0.82rem;
+}
+footer a { color: var(--primary); text-decoration: none; }
+@media (max-width: 600px) {
+    body { padding: 1rem; }
+    h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+    <header>
+        <h1>Knowledge Base</h1>
+        <p class="meta">103 expert answers &middot; Updated April 2026</p>
+    </header>
+
+    <h2>AI How To Invest (37 pages)</h2>
+    <ul>
+        <li><a href="aihowtoinvest/about-aihowtoinvest/">About AI How To Invest</a></li>
+        <li><a href="aihowtoinvest/how-do-i-open-a-brokerage-account/">How do I open a brokerage account?</a></li>
+        <li><a href="aihowtoinvest/how-do-stock-market-returns-compare-to-inflation/">How do stock market returns compare to inflation?</a></li>
+        <li><a href="aihowtoinvest/how-does-a-401k-work/">How does a 401k work?</a></li>
+        <li><a href="aihowtoinvest/how-much-do-i-need-to-retire/">How much do I need to retire?</a></li>
+        <li><a href="aihowtoinvest/how-much-of-my-income-should-i-save/">How much of my income should I save?</a></li>
+        <li><a href="aihowtoinvest/how-much-should-i-invest-per-month/">How much should I invest per month?</a></li>
+        <li><a href="aihowtoinvest/how-to-build-a-diversified-portfolio/">How to build a diversified portfolio?</a></li>
+        <li><a href="aihowtoinvest/how-to-calculate-compound-interest/">How to calculate compound interest?</a></li>
+        <li><a href="aihowtoinvest/how-to-invest-for-retirement/">How to invest for retirement?</a></li>
+        <li><a href="aihowtoinvest/how-to-invest-in-bonds/">How to invest in bonds?</a></li>
+        <li><a href="aihowtoinvest/how-to-invest-in-index-funds/">How to invest in index funds?</a></li>
+        <li><a href="aihowtoinvest/how-to-invest-in-real-estate/">How to invest in real estate?</a></li>
+        <li><a href="aihowtoinvest/how-to-read-a-stock-chart/">How to read a stock chart?</a></li>
+        <li><a href="aihowtoinvest/how-to-start-investing-with-little-money/">How to start investing with little money?</a></li>
+        <li><a href="aihowtoinvest/should-i-invest-or-pay-off-debt-first/">Should I invest or pay off debt first?</a></li>
+        <li><a href="aihowtoinvest/tools-aihowtoinvest/">Tools by AI How To Invest</a></li>
+        <li><a href="aihowtoinvest/what-are-index-funds/">What are index funds?</a></li>
+        <li><a href="aihowtoinvest/what-is-a-roth-ira-vs-traditional-ira/">What is a Roth IRA vs Traditional IRA?</a></li>
+        <li><a href="aihowtoinvest/what-is-a-dividend/">What is a dividend?</a></li>
+        <li><a href="aihowtoinvest/what-is-a-robo-advisor/">What is a robo-advisor?</a></li>
+        <li><a href="aihowtoinvest/what-is-a-stock-split/">What is a stock split?</a></li>
+        <li><a href="aihowtoinvest/what-is-a-target-date-fund/">What is a target-date fund?</a></li>
+        <li><a href="aihowtoinvest/what-is-an-etf/">What is an ETF?</a></li>
+        <li><a href="aihowtoinvest/what-is-an-emergency-fund/">What is an emergency fund?</a></li>
+        <li><a href="aihowtoinvest/what-is-asset-allocation/">What is asset allocation?</a></li>
+        <li><a href="aihowtoinvest/what-is-compound-interest/">What is compound interest?</a></li>
+        <li><a href="aihowtoinvest/what-is-dollar-cost-averaging-vs-lump-sum-investing/">What is dollar cost averaging vs lump sum investing?</a></li>
+        <li><a href="aihowtoinvest/what-is-dollar-cost-averaging/">What is dollar cost averaging?</a></li>
+        <li><a href="aihowtoinvest/what-is-expense-ratio/">What is expense ratio?</a></li>
+        <li><a href="aihowtoinvest/what-is-market-capitalization/">What is market capitalization?</a></li>
+        <li><a href="aihowtoinvest/what-is-net-worth-and-how-do-i-calculate-it/">What is net worth and how do I calculate it?</a></li>
+        <li><a href="aihowtoinvest/what-is-tax-loss-harvesting/">What is tax-loss harvesting?</a></li>
+        <li><a href="aihowtoinvest/what-is-the-4-rule/">What is the 4% rule?</a></li>
+        <li><a href="aihowtoinvest/what-is-the-rule-of-72/">What is the Rule of 72?</a></li>
+        <li><a href="aihowtoinvest/what-is-the-sp-500/">What is the S&P 500?</a></li>
+        <li><a href="aihowtoinvest/what-is-the-best-investment-strategy-for-beginners/">What is the best investment strategy for beginners?</a></li>
+    </ul>
+
+    <h2>StudLoans (36 pages)</h2>
+    <ul>
+        <li><a href="studloans/about-studloans/">About StudLoans</a></li>
+        <li><a href="studloans/can-i-get-student-loan-forgiveness-for-teachers/">Can I get student loan forgiveness for teachers?</a></li>
+        <li><a href="studloans/can-student-loans-be-discharged-in-bankruptcy/">Can student loans be discharged in bankruptcy?</a></li>
+        <li><a href="studloans/federal-vs-private-student-loans/">Federal vs private student loans?</a></li>
+        <li><a href="studloans/how-do-i-consolidate-student-loans/">How do I consolidate student loans?</a></li>
+        <li><a href="studloans/how-do-parent-plus-loans-work/">How do parent PLUS loans work?</a></li>
+        <li><a href="studloans/how-do-student-loans-affect-buying-a-house/">How do student loans affect buying a house?</a></li>
+        <li><a href="studloans/how-do-student-loans-affect-credit-score/">How do student loans affect credit score?</a></li>
+        <li><a href="studloans/how-does-student-loan-deferment-work/">How does student loan deferment work?</a></li>
+        <li><a href="studloans/how-does-student-loan-interest-work/">How does student loan interest work?</a></li>
+        <li><a href="studloans/how-to-apply-for-income-driven-repayment/">How to apply for income-driven repayment?</a></li>
+        <li><a href="studloans/how-to-apply-for-student-loan-forgiveness/">How to apply for student loan forgiveness?</a></li>
+        <li><a href="studloans/how-to-calculate-student-loan-payments/">How to calculate student loan payments?</a></li>
+        <li><a href="studloans/how-to-check-student-loan-balance/">How to check student loan balance?</a></li>
+        <li><a href="studloans/how-to-get-student-loan-forgiveness-for-nurses/">How to get student loan forgiveness for nurses?</a></li>
+        <li><a href="studloans/how-to-lower-student-loan-payments/">How to lower student loan payments?</a></li>
+        <li><a href="studloans/how-to-pay-off-student-loans-faster/">How to pay off student loans faster?</a></li>
+        <li><a href="studloans/should-i-pay-off-student-loans-or-invest/">Should I pay off student loans or invest?</a></li>
+        <li><a href="studloans/should-i-refinance-my-student-loans/">Should I refinance my student loans?</a></li>
+        <li><a href="studloans/student-loan-interest-deduction-on-taxes/">Student loan interest deduction on taxes?</a></li>
+        <li><a href="studloans/tools-studloans/">Tools by StudLoans</a></li>
+        <li><a href="studloans/what-are-the-best-student-loan-repayment-strategies/">What are the best student loan repayment strategies?</a></li>
+        <li><a href="studloans/what-happens-if-i-dont-pay-student-loans/">What happens if I don't pay student loans?</a></li>
+        <li><a href="studloans/what-is-idr-forgiveness-taxable/">What is IDR forgiveness taxable?</a></li>
+        <li><a href="studloans/what-is-pslf-and-how-does-it-work/">What is PSLF and how does it work?</a></li>
+        <li><a href="studloans/what-is-a-student-loan-grace-period/">What is a student loan grace period?</a></li>
+        <li><a href="studloans/what-is-income-driven-repayment/">What is income-driven repayment?</a></li>
+        <li><a href="studloans/what-is-loan-rehabilitation/">What is loan rehabilitation?</a></li>
+        <li><a href="studloans/what-is-student-loan-consolidation/">What is student loan consolidation?</a></li>
+        <li><a href="studloans/what-is-the-fafsa/">What is the FAFSA?</a></li>
+        <li><a href="studloans/what-is-the-save-plan/">What is the SAVE plan?</a></li>
+        <li><a href="studloans/what-is-the-average-monthly-student-loan-payment/">What is the average monthly student loan payment?</a></li>
+        <li><a href="studloans/what-is-the-average-student-loan-debt/">What is the average student loan debt?</a></li>
+        <li><a href="studloans/what-is-the-difference-between-refinancing-and-consolidation/">What is the difference between refinancing and consolidation?</a></li>
+        <li><a href="studloans/what-is-the-difference-between-subsidized-and-unsubsidized-loans/">What is the difference between subsidized and unsubsidized loans?</a></li>
+        <li><a href="studloans/what-is-the-student-loan-forgiveness-timeline/">What is the student loan forgiveness timeline?</a></li>
+    </ul>
+
+    <h2>ReturnMyTax (30 pages)</h2>
+    <ul>
+        <li><a href="returnmytax/about-returnmytax/">About ReturnMyTax</a></li>
+        <li><a href="returnmytax/do-us-expats-pay-double-tax/">Do US expats pay double tax?</a></li>
+        <li><a href="returnmytax/foreign-tax-credit-vs-foreign-earned-income-exclusion/">Foreign Tax Credit vs Foreign Earned Income Exclusion?</a></li>
+        <li><a href="returnmytax/how-to-avoid-double-taxation-as-a-us-expat/">How to avoid double taxation as a US expat?</a></li>
+        <li><a href="returnmytax/how-to-calculate-self-employment-tax-abroad/">How to calculate self-employment tax abroad?</a></li>
+        <li><a href="returnmytax/how-to-file-us-taxes-from-israel/">How to file US taxes from Israel?</a></li>
+        <li><a href="returnmytax/how-to-file-back-taxes-from-abroad/">How to file back taxes from abroad?</a></li>
+        <li><a href="returnmytax/how-to-get-an-itin-for-non-us-spouse/">How to get an ITIN for non-US spouse?</a></li>
+        <li><a href="returnmytax/how-to-handle-cryptocurrency-taxes-as-an-expat/">How to handle cryptocurrency taxes as an expat?</a></li>
+        <li><a href="returnmytax/how-to-report-israeli-pension-to-irs/">How to report Israeli pension to IRS?</a></li>
+        <li><a href="returnmytax/how-to-report-foreign-gifts-to-irs/">How to report foreign gifts to IRS?</a></li>
+        <li><a href="returnmytax/how-to-report-foreign-rental-income-to-irs/">How to report foreign rental income to IRS?</a></li>
+        <li><a href="returnmytax/israeli-tax-brackets-for-americans/">Israeli tax brackets for Americans?</a></li>
+        <li><a href="returnmytax/tools-returnmytax/">Tools by ReturnMyTax</a></li>
+        <li><a href="returnmytax/us-expat-tax-filing-deadline/">US expat tax filing deadline?</a></li>
+        <li><a href="returnmytax/us-tax-obligations-for-dual-citizens/">US tax obligations for dual citizens?</a></li>
+        <li><a href="returnmytax/us-israel-tax-treaty-explained/">US-Israel tax treaty explained</a></li>
+        <li><a href="returnmytax/what-are-the-penalties-for-not-filing-fbar/">What are the penalties for not filing FBAR?</a></li>
+        <li><a href="returnmytax/what-is-fatca/">What is FATCA?</a></li>
+        <li><a href="returnmytax/what-is-fbar-and-who-needs-to-file/">What is FBAR and who needs to file?</a></li>
+        <li><a href="returnmytax/what-is-form-1116-foreign-tax-credit/">What is Form 1116 Foreign Tax Credit?</a></li>
+        <li><a href="returnmytax/what-is-form-5471-for-us-expats/">What is Form 5471 for US expats?</a></li>
+        <li><a href="returnmytax/what-is-form-8938/">What is Form 8938?</a></li>
+        <li><a href="returnmytax/what-is-a-pfic-and-why-does-it-matter-for-expats/">What is a PFIC and why does it matter for expats?</a></li>
+        <li><a href="returnmytax/what-is-keren-hishtalmut-us-tax-treatment/">What is keren hishtalmut US tax treatment?</a></li>
+        <li><a href="returnmytax/what-is-the-foreign-housing-exclusion/">What is the Foreign Housing Exclusion?</a></li>
+        <li><a href="returnmytax/what-is-the-physical-presence-test-for-expats/">What is the Physical Presence Test for expats?</a></li>
+        <li><a href="returnmytax/what-is-the-streamlined-filing-procedure/">What is the Streamlined Filing Procedure?</a></li>
+        <li><a href="returnmytax/what-is-the-us-israel-totalization-agreement/">What is the US-Israel Totalization Agreement?</a></li>
+        <li><a href="returnmytax/what-is-the-foreign-earned-income-exclusion/">What is the foreign earned income exclusion?</a></li>
+    </ul>
+
+    <footer>
+        &copy; 2026 All rights reserved.
+    </footer>
+</body>
+</html>
