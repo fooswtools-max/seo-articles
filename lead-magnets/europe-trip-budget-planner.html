@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Europe Trip Budget Planner | AttractionScout</title>
+    <meta name="description" content="Europe Trip Budget Planner — Free guide from AttractionScout. Daily budget breakdown for backpacker, mid-range, and comfort travelers">
+    <meta property="og:title" content="Europe Trip Budget Planner">
+    <meta property="og:description" content="Daily budget breakdown for backpacker, mid-range, and comfort travelers">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://attractionscout.com">
+    <link rel="canonical" href="https://attractionscout.com">
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+            line-height: 1.7;
+            color: #1a1a2e;
+            background: #f8f9fa;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0;
+        }
+        .header {
+            background: linear-gradient(135deg, #e65100, #b84000);
+            color: white;
+            padding: 48px 40px 40px;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
+        }
+        .header .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+            font-weight: 400;
+        }
+        .header .site-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            border-radius: 20px;
+            padding: 4px 16px;
+            font-size: 13px;
+            margin-top: 16px;
+            letter-spacing: 0.5px;
+        }
+        .content {
+            background: white;
+            padding: 40px;
+        }
+        .intro {
+            font-size: 16px;
+            color: #444;
+            margin-bottom: 32px;
+            padding-bottom: 24px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #e65100;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #2e7d32;
+            display: inline-block;
+        }
+        .checklist {
+            list-style: none;
+            padding: 0;
+        }
+        .checklist li {
+            padding: 12px 16px 12px 44px;
+            position: relative;
+            margin-bottom: 8px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 3px solid #2e7d32;
+            font-size: 15px;
+        }
+        .checklist li::before {
+            content: '\2610';
+            position: absolute;
+            left: 14px;
+            top: 12px;
+            font-size: 18px;
+            color: #e65100;
+        }
+        .checklist li strong {
+            color: #e65100;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0 24px;
+            font-size: 14px;
+        }
+        th {
+            background: #e65100;
+            color: white;
+            padding: 12px 14px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        td {
+            padding: 10px 14px;
+            border-bottom: 1px solid #e8e8e8;
+        }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #e8f0fe; }
+        .highlight-box {
+            background: linear-gradient(135deg, #fffde7, #fff9c4);
+            border: 1px solid #f9a825;
+            border-radius: 8px;
+            padding: 20px 24px;
+            margin: 24px 0;
+        }
+        .highlight-box h3 {
+            color: #e65100;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+        .tip-box {
+            background: #e3f2fd;
+            border-left: 4px solid #e65100;
+            padding: 16px 20px;
+            margin: 16px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        .tip-box strong { color: #e65100; }
+        .cta-section {
+            background: linear-gradient(135deg, #e65100, #b84000);
+            color: white;
+            text-align: center;
+            padding: 40px;
+            margin-top: 40px;
+            border-radius: 0;
+        }
+        .cta-section h2 {
+            font-size: 22px;
+            margin-bottom: 12px;
+        }
+        .cta-section p {
+            font-size: 15px;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: #e65100;
+            padding: 14px 36px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 16px;
+            transition: transform 0.2s;
+        }
+        .cta-button:hover { transform: scale(1.05); }
+        .footer {
+            background: #1a1a2e;
+            color: #ccc;
+            padding: 32px 40px;
+            text-align: center;
+            font-size: 13px;
+        }
+        .footer a {
+            color: #90caf9;
+            text-decoration: none;
+            margin: 0 12px;
+        }
+        .footer a:hover { text-decoration: underline; }
+        .footer .cross-links {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #333;
+        }
+        .number-step {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: #e65100;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 28px;
+            font-size: 14px;
+            font-weight: 700;
+            margin-right: 8px;
+        }
+        .budget-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 12px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .budget-card h3 {
+            color: #e65100;
+            margin-bottom: 8px;
+        }
+        @media (max-width: 600px) {
+            .header { padding: 32px 20px; }
+            .header h1 { font-size: 22px; }
+            .content { padding: 24px 20px; }
+            .cta-section { padding: 32px 20px; }
+            table { font-size: 12px; }
+            th, td { padding: 8px 6px; }
+        }
+        @media print {
+            .cta-section { display: none; }
+            .footer { display: none; }
+            body { background: white; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Europe Trip Budget Planner</h1>
+        <p class="subtitle">Daily budget breakdown for backpacker, mid-range, and comfort travelers</p>
+        <div class="site-badge">AttractionScout &mdash; attractionscout.com</div>
+    </div>
+    <div class="content">
+        
+    <p class="intro">
+        Planning a Europe trip but not sure how much to budget? This planner breaks down daily costs
+        for popular European cities across three budget levels: backpacker, mid-range, and comfort.
+        All prices are in USD per person per day.
+    </p>
+
+    <h2 class="section-title">Daily Budget by City (USD per person)</h2>
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Backpacker</th>
+            <th>Mid-Range</th>
+            <th>Comfort</th>
+        </tr>
+        <tr><td>Paris</td><td>$60-80</td><td>$150-200</td><td>$300+</td></tr>
+        <tr><td>Barcelona</td><td>$45-65</td><td>$120-170</td><td>$250+</td></tr>
+        <tr><td>Rome</td><td>$50-70</td><td>$130-180</td><td>$280+</td></tr>
+        <tr><td>London</td><td>$65-90</td><td>$170-230</td><td>$350+</td></tr>
+        <tr><td>Amsterdam</td><td>$55-75</td><td>$140-190</td><td>$300+</td></tr>
+        <tr><td>Prague</td><td>$30-50</td><td>$80-120</td><td>$180+</td></tr>
+        <tr><td>Istanbul</td><td>$25-40</td><td>$60-100</td><td>$150+</td></tr>
+    </table>
+
+    <h2 class="section-title">Budget Breakdown by Category</h2>
+
+    <div class="budget-card">
+        <h3>Accommodation (40% of budget)</h3>
+        <table>
+            <tr><th>Type</th><th>Cost Range</th><th>Best For</th></tr>
+            <tr><td>Hostel dorm (6-8 bed)</td><td>$15-40/night</td><td>Solo travelers, backpackers</td></tr>
+            <tr><td>Hostel private room</td><td>$40-80/night</td><td>Couples on a budget</td></tr>
+            <tr><td>Airbnb / Apartment</td><td>$60-150/night</td><td>Groups, families, longer stays</td></tr>
+            <tr><td>Mid-range hotel (3-star)</td><td>$80-180/night</td><td>Comfort travelers, couples</td></tr>
+            <tr><td>Boutique / 4-star hotel</td><td>$150-350/night</td><td>Special occasions, luxury</td></tr>
+        </table>
+    </div>
+
+    <div class="budget-card">
+        <h3>Food & Drink (25% of budget)</h3>
+        <table>
+            <tr><th>Meal Type</th><th>Cost Range</th><th>Money-Saving Tip</th></tr>
+            <tr><td>Breakfast</td><td>$0-8</td><td>Book accommodation with breakfast included</td></tr>
+            <tr><td>Lunch (local spot)</td><td>$8-15</td><td>Look for "menu del dia" or "prix fixe" lunch specials</td></tr>
+            <tr><td>Dinner (restaurant)</td><td>$15-35</td><td>Eat away from tourist squares — one block makes a big difference</td></tr>
+            <tr><td>Street food / Market</td><td>$3-8</td><td>Markets are the best budget option AND the best food</td></tr>
+            <tr><td>Coffee</td><td>$2-5</td><td>Stand at the bar in Italy — sitting costs 2-3x more</td></tr>
+            <tr><td>Beer / Wine</td><td>$3-8</td><td>Buy from supermarkets for hotel/hostel drinks</td></tr>
+        </table>
+    </div>
+
+    <div class="budget-card">
+        <h3>Transportation (15% of budget)</h3>
+        <table>
+            <tr><th>Transport</th><th>Cost</th><th>Tip</th></tr>
+            <tr><td>Metro / Bus day pass</td><td>$5-12</td><td>Always buy multi-day passes — much cheaper per ride</td></tr>
+            <tr><td>Train between cities</td><td>$20-80</td><td>Book 2-3 months in advance for 50-70% savings</td></tr>
+            <tr><td>Budget airline</td><td>$30-100</td><td>Carry-on only to avoid baggage fees</td></tr>
+            <tr><td>Airport transfer</td><td>$10-25</td><td>Use public transit — airport trains are 5-10x cheaper than taxis</td></tr>
+            <tr><td>Walking</td><td>Free</td><td>Most European city centers are walkable — save money AND see more</td></tr>
+        </table>
+    </div>
+
+    <div class="budget-card">
+        <h3>Activities & Attractions (15% of budget)</h3>
+        <table>
+            <tr><th>Activity</th><th>Cost</th><th>Money-Saving Tip</th></tr>
+            <tr><td>Major museum</td><td>$15-25</td><td>Free days (1st Sunday in Paris), evening hours, city passes</td></tr>
+            <tr><td>Guided walking tour</td><td>$0-15</td><td>Free walking tours (tip-based) are often the best</td></tr>
+            <tr><td>Day trip</td><td>$30-80</td><td>Take regional trains instead of organized tours — half the cost</td></tr>
+            <tr><td>Churches & parks</td><td>Free</td><td>Europe's churches are free art galleries — don't skip them</td></tr>
+            <tr><td>City pass (3-day)</td><td>$50-90</td><td>Only worth it if you visit 4+ paid attractions</td></tr>
+        </table>
+    </div>
+
+    <h2 class="section-title">Sample 10-Day Europe Trip Budgets</h2>
+    <div class="highlight-box">
+        <h3>Backpacker: $700-1,000 (excluding flights)</h3>
+        <p>Hostels, street food, free walking tours, budget trains, and lots of walking. You'll have an amazing time.</p>
+    </div>
+    <div class="highlight-box">
+        <h3>Mid-Range: $1,500-2,500 (excluding flights)</h3>
+        <p>3-star hotels or nice Airbnbs, restaurant meals, paid attractions, city passes, and comfortable trains.</p>
+    </div>
+    <div class="highlight-box">
+        <h3>Comfort: $3,000-5,000 (excluding flights)</h3>
+        <p>4-star hotels, fine dining, skip-the-line tours, business class trains, and taxis when needed.</p>
+    </div>
+
+    <h2 class="section-title">Top 10 Money-Saving Tips</h2>
+    <ul class="checklist">
+        <li><strong>Book trains 2-3 months early</strong> — London to Paris can be $35 instead of $200.</li>
+        <li><strong>Eat lunch as your big meal</strong> — lunch specials are 40-60% cheaper than dinner.</li>
+        <li><strong>Get a city pass ONLY if it saves money</strong> — do the math for your specific attractions.</li>
+        <li><strong>Use Revolut or Wise card</strong> — no foreign exchange fees, real exchange rate.</li>
+        <li><strong>Walk everywhere possible</strong> — European cities are small and beautiful on foot.</li>
+        <li><strong>Cook 2-3 meals at your Airbnb</strong> — local markets make this fun, not a chore.</li>
+        <li><strong>Travel on Tuesday-Thursday</strong> — flights and trains are cheapest mid-week.</li>
+        <li><strong>Visit Eastern Europe</strong> — Prague, Budapest, and Krakow are 50% cheaper than Paris/London.</li>
+        <li><strong>Use free museum days</strong> — most major European museums have at least one free day per month.</li>
+        <li><strong>Skip taxis</strong> — metro systems in Europe are clean, safe, and much cheaper.</li>
+    </ul>
+
+    <div class="tip-box">
+        <strong>Plan your Europe trip:</strong> Explore city guides with attractions, prices,
+        and ratings for Paris, Barcelona, Rome, London, Amsterdam, Prague, and Istanbul at
+        <a href="https://attractionscout.com">attractionscout.com</a>.
+    </div>
+    
+    </div>
+    <div class="cta-section">
+        <h2>Get More Free Guides Like This</h2>
+        <p>Explore our full library of free tools, calculators, and guides.</p>
+        <a href="https://attractionscout.com" class="cta-button">Visit AttractionScout</a>
+    </div>
+    <div class="footer">
+        <p>&copy; 2026 AttractionScout &mdash; <a href="https://attractionscout.com">attractionscout.com</a></p>
+        <div class="cross-links">
+            <p>More free resources: <a href="https://aihowtoinvest.com">AI How To Invest</a> | <a href="https://studloans.com">StudLoans</a> | <a href="https://returnmytax.com">ReturnMyTax</a></p>
+        </div>
+    </div>
+</body>
+</html>
