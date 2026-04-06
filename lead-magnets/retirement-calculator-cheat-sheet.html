@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retirement Calculator Cheat Sheet | AI How To Invest</title>
+    <meta name="description" content="Retirement Calculator Cheat Sheet — Free guide from AI How To Invest. Key numbers, benchmarks, and contribution limits by age">
+    <meta property="og:title" content="Retirement Calculator Cheat Sheet">
+    <meta property="og:description" content="Key numbers, benchmarks, and contribution limits by age">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://aihowtoinvest.com">
+    <link rel="canonical" href="https://aihowtoinvest.com">
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+            line-height: 1.7;
+            color: #1a1a2e;
+            background: #f8f9fa;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0;
+        }
+        .header {
+            background: linear-gradient(135deg, #1a73e8, #145cb9);
+            color: white;
+            padding: 48px 40px 40px;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
+        }
+        .header .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+            font-weight: 400;
+        }
+        .header .site-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            border-radius: 20px;
+            padding: 4px 16px;
+            font-size: 13px;
+            margin-top: 16px;
+            letter-spacing: 0.5px;
+        }
+        .content {
+            background: white;
+            padding: 40px;
+        }
+        .intro {
+            font-size: 16px;
+            color: #444;
+            margin-bottom: 32px;
+            padding-bottom: 24px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #1a73e8;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #34a853;
+            display: inline-block;
+        }
+        .checklist {
+            list-style: none;
+            padding: 0;
+        }
+        .checklist li {
+            padding: 12px 16px 12px 44px;
+            position: relative;
+            margin-bottom: 8px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 3px solid #34a853;
+            font-size: 15px;
+        }
+        .checklist li::before {
+            content: '\2610';
+            position: absolute;
+            left: 14px;
+            top: 12px;
+            font-size: 18px;
+            color: #1a73e8;
+        }
+        .checklist li strong {
+            color: #1a73e8;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0 24px;
+            font-size: 14px;
+        }
+        th {
+            background: #1a73e8;
+            color: white;
+            padding: 12px 14px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        td {
+            padding: 10px 14px;
+            border-bottom: 1px solid #e8e8e8;
+        }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #e8f0fe; }
+        .highlight-box {
+            background: linear-gradient(135deg, #fffde7, #fff9c4);
+            border: 1px solid #f9a825;
+            border-radius: 8px;
+            padding: 20px 24px;
+            margin: 24px 0;
+        }
+        .highlight-box h3 {
+            color: #e65100;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+        .tip-box {
+            background: #e3f2fd;
+            border-left: 4px solid #1a73e8;
+            padding: 16px 20px;
+            margin: 16px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        .tip-box strong { color: #1a73e8; }
+        .cta-section {
+            background: linear-gradient(135deg, #1a73e8, #145cb9);
+            color: white;
+            text-align: center;
+            padding: 40px;
+            margin-top: 40px;
+            border-radius: 0;
+        }
+        .cta-section h2 {
+            font-size: 22px;
+            margin-bottom: 12px;
+        }
+        .cta-section p {
+            font-size: 15px;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: #1a73e8;
+            padding: 14px 36px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 16px;
+            transition: transform 0.2s;
+        }
+        .cta-button:hover { transform: scale(1.05); }
+        .footer {
+            background: #1a1a2e;
+            color: #ccc;
+            padding: 32px 40px;
+            text-align: center;
+            font-size: 13px;
+        }
+        .footer a {
+            color: #90caf9;
+            text-decoration: none;
+            margin: 0 12px;
+        }
+        .footer a:hover { text-decoration: underline; }
+        .footer .cross-links {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #333;
+        }
+        .number-step {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: #1a73e8;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 28px;
+            font-size: 14px;
+            font-weight: 700;
+            margin-right: 8px;
+        }
+        .budget-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 12px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .budget-card h3 {
+            color: #1a73e8;
+            margin-bottom: 8px;
+        }
+        @media (max-width: 600px) {
+            .header { padding: 32px 20px; }
+            .header h1 { font-size: 22px; }
+            .content { padding: 24px 20px; }
+            .cta-section { padding: 32px 20px; }
+            table { font-size: 12px; }
+            th, td { padding: 8px 6px; }
+        }
+        @media print {
+            .cta-section { display: none; }
+            .footer { display: none; }
+            body { background: white; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Retirement Calculator Cheat Sheet</h1>
+        <p class="subtitle">Key numbers, benchmarks, and contribution limits by age</p>
+        <div class="site-badge">AI How To Invest &mdash; aihowtoinvest.com</div>
+    </div>
+    <div class="content">
+        
+    <p class="intro">
+        How much should you have saved for retirement at your age? This cheat sheet gives you
+        the key benchmarks, contribution limits, and formulas to stay on track — no financial
+        advisor required.
+    </p>
+
+    <h2 class="section-title">Retirement Savings Benchmarks by Age</h2>
+    <table>
+        <tr>
+            <th>Age</th>
+            <th>Savings Target</th>
+            <th>Multiple of Salary</th>
+            <th>Monthly to Save (if starting now)</th>
+        </tr>
+        <tr><td>25</td><td>$10,000+</td><td>0.2x</td><td>$250-400</td></tr>
+        <tr><td>30</td><td>1x annual salary</td><td>1x</td><td>$400-600</td></tr>
+        <tr><td>35</td><td>2x annual salary</td><td>2x</td><td>$600-900</td></tr>
+        <tr><td>40</td><td>3x annual salary</td><td>3x</td><td>$900-1,300</td></tr>
+        <tr><td>45</td><td>4x annual salary</td><td>4x</td><td>$1,200-1,800</td></tr>
+        <tr><td>50</td><td>6x annual salary</td><td>6x</td><td>$1,800-2,500</td></tr>
+        <tr><td>55</td><td>7x annual salary</td><td>7x</td><td>$2,200-3,000</td></tr>
+        <tr><td>60</td><td>8x annual salary</td><td>8x</td><td>$2,800-4,000</td></tr>
+        <tr><td>65</td><td>10x annual salary</td><td>10x</td><td>Retirement ready</td></tr>
+    </table>
+
+    <h2 class="section-title">2026 Contribution Limits</h2>
+    <table>
+        <tr>
+            <th>Account Type</th>
+            <th>Under 50</th>
+            <th>Age 50+</th>
+            <th>Age 60-63 (Super Catch-Up)</th>
+        </tr>
+        <tr><td>401(k) / 403(b)</td><td>$23,500</td><td>$31,000</td><td>$34,750</td></tr>
+        <tr><td>Traditional / Roth IRA</td><td>$7,000</td><td>$8,000</td><td>$8,000</td></tr>
+        <tr><td>HSA (Individual)</td><td>$4,300</td><td>$5,300</td><td>$5,300</td></tr>
+        <tr><td>HSA (Family)</td><td>$8,550</td><td>$9,550</td><td>$9,550</td></tr>
+        <tr><td>SEP IRA</td><td colspan="3">25% of compensation, up to $70,000</td></tr>
+        <tr><td>Solo 401(k)</td><td colspan="3">$23,500 employee + 25% employer, up to $70,000 total</td></tr>
+    </table>
+
+    <h2 class="section-title">The 4% Rule Quick Reference</h2>
+    <div class="highlight-box">
+        <h3>How Much Do You Need to Retire?</h3>
+        <p>Multiply your desired annual retirement income by 25.</p>
+        <p><strong>Want $50,000/year?</strong> You need $1,250,000 saved.<br>
+        <strong>Want $80,000/year?</strong> You need $2,000,000 saved.<br>
+        <strong>Want $100,000/year?</strong> You need $2,500,000 saved.</p>
+        <p><em>This assumes 4% annual withdrawals, historically sustainable for 30+ years.</em></p>
+    </div>
+
+    <h2 class="section-title">Key Ages to Remember</h2>
+    <ul class="checklist">
+        <li><strong>Age 50:</strong> Catch-up contributions begin ($7,500 extra for 401(k), $1,000 for IRA)</li>
+        <li><strong>Age 55:</strong> Can withdraw from current employer 401(k) penalty-free if separated from service</li>
+        <li><strong>Age 59.5:</strong> Penalty-free withdrawals from IRAs and 401(k)s begin</li>
+        <li><strong>Age 60-63:</strong> Super catch-up contributions ($11,250 extra for 401(k))</li>
+        <li><strong>Age 62:</strong> Earliest Social Security eligibility (reduced benefit)</li>
+        <li><strong>Age 65:</strong> Medicare eligibility begins</li>
+        <li><strong>Age 67:</strong> Full Social Security retirement age (for those born after 1960)</li>
+        <li><strong>Age 70:</strong> Maximum Social Security benefit (delayed credits stop)</li>
+        <li><strong>Age 73:</strong> Required Minimum Distributions (RMDs) begin for traditional accounts</li>
+    </ul>
+
+    <div class="tip-box">
+        <strong>Pro Tip:</strong> Use the free retirement planner at
+        <a href="https://aihowtoinvest.com">aihowtoinvest.com</a> to calculate your exact
+        retirement number based on your age, income, and savings rate.
+    </div>
+    
+    </div>
+    <div class="cta-section">
+        <h2>Get More Free Guides Like This</h2>
+        <p>Explore our full library of free tools, calculators, and guides.</p>
+        <a href="https://aihowtoinvest.com" class="cta-button">Visit AI How To Invest</a>
+    </div>
+    <div class="footer">
+        <p>&copy; 2026 AI How To Invest &mdash; <a href="https://aihowtoinvest.com">aihowtoinvest.com</a></p>
+        <div class="cross-links">
+            <p>More free resources: <a href="https://studloans.com">StudLoans</a> | <a href="https://returnmytax.com">ReturnMyTax</a> | <a href="https://attractionscout.com">AttractionScout</a></p>
+        </div>
+    </div>
+</body>
+</html>
