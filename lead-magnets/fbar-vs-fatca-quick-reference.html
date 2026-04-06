@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FBAR vs FATCA Quick Reference | ReturnMyTax</title>
+    <meta name="description" content="FBAR vs FATCA Quick Reference — Free guide from ReturnMyTax. Key differences between FBAR and FATCA reporting at a glance">
+    <meta property="og:title" content="FBAR vs FATCA Quick Reference">
+    <meta property="og:description" content="Key differences between FBAR and FATCA reporting at a glance">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://returnmytax.com">
+    <link rel="canonical" href="https://returnmytax.com">
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+            line-height: 1.7;
+            color: #1a1a2e;
+            background: #f8f9fa;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0;
+        }
+        .header {
+            background: linear-gradient(135deg, #0d47a1, #0a3880);
+            color: white;
+            padding: 48px 40px 40px;
+            text-align: center;
+        }
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
+        }
+        .header .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+            font-weight: 400;
+        }
+        .header .site-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            border-radius: 20px;
+            padding: 4px 16px;
+            font-size: 13px;
+            margin-top: 16px;
+            letter-spacing: 0.5px;
+        }
+        .content {
+            background: white;
+            padding: 40px;
+        }
+        .intro {
+            font-size: 16px;
+            color: #444;
+            margin-bottom: 32px;
+            padding-bottom: 24px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #0d47a1;
+            margin: 32px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #ff6f00;
+            display: inline-block;
+        }
+        .checklist {
+            list-style: none;
+            padding: 0;
+        }
+        .checklist li {
+            padding: 12px 16px 12px 44px;
+            position: relative;
+            margin-bottom: 8px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 3px solid #ff6f00;
+            font-size: 15px;
+        }
+        .checklist li::before {
+            content: '\2610';
+            position: absolute;
+            left: 14px;
+            top: 12px;
+            font-size: 18px;
+            color: #0d47a1;
+        }
+        .checklist li strong {
+            color: #0d47a1;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0 24px;
+            font-size: 14px;
+        }
+        th {
+            background: #0d47a1;
+            color: white;
+            padding: 12px 14px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        td {
+            padding: 10px 14px;
+            border-bottom: 1px solid #e8e8e8;
+        }
+        tr:nth-child(even) { background: #f8f9fa; }
+        tr:hover { background: #e8f0fe; }
+        .highlight-box {
+            background: linear-gradient(135deg, #fffde7, #fff9c4);
+            border: 1px solid #f9a825;
+            border-radius: 8px;
+            padding: 20px 24px;
+            margin: 24px 0;
+        }
+        .highlight-box h3 {
+            color: #e65100;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+        .tip-box {
+            background: #e3f2fd;
+            border-left: 4px solid #0d47a1;
+            padding: 16px 20px;
+            margin: 16px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        .tip-box strong { color: #0d47a1; }
+        .cta-section {
+            background: linear-gradient(135deg, #0d47a1, #0a3880);
+            color: white;
+            text-align: center;
+            padding: 40px;
+            margin-top: 40px;
+            border-radius: 0;
+        }
+        .cta-section h2 {
+            font-size: 22px;
+            margin-bottom: 12px;
+        }
+        .cta-section p {
+            font-size: 15px;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            background: white;
+            color: #0d47a1;
+            padding: 14px 36px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 16px;
+            transition: transform 0.2s;
+        }
+        .cta-button:hover { transform: scale(1.05); }
+        .footer {
+            background: #1a1a2e;
+            color: #ccc;
+            padding: 32px 40px;
+            text-align: center;
+            font-size: 13px;
+        }
+        .footer a {
+            color: #90caf9;
+            text-decoration: none;
+            margin: 0 12px;
+        }
+        .footer a:hover { text-decoration: underline; }
+        .footer .cross-links {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #333;
+        }
+        .number-step {
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: #0d47a1;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 28px;
+            font-size: 14px;
+            font-weight: 700;
+            margin-right: 8px;
+        }
+        .budget-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 12px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .budget-card h3 {
+            color: #0d47a1;
+            margin-bottom: 8px;
+        }
+        @media (max-width: 600px) {
+            .header { padding: 32px 20px; }
+            .header h1 { font-size: 22px; }
+            .content { padding: 24px 20px; }
+            .cta-section { padding: 32px 20px; }
+            table { font-size: 12px; }
+            th, td { padding: 8px 6px; }
+        }
+        @media print {
+            .cta-section { display: none; }
+            .footer { display: none; }
+            body { background: white; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>FBAR vs FATCA Quick Reference</h1>
+        <p class="subtitle">Key differences between FBAR and FATCA reporting at a glance</p>
+        <div class="site-badge">ReturnMyTax &mdash; returnmytax.com</div>
+    </div>
+    <div class="content">
+        
+    <p class="intro">
+        FBAR and FATCA are both foreign account reporting requirements, but they are different filings
+        with different thresholds, deadlines, and penalties. This guide shows the differences at a glance.
+    </p>
+
+    <h2 class="section-title">Side-by-Side Comparison</h2>
+    <table>
+        <tr>
+            <th>Feature</th>
+            <th>FBAR (FinCEN 114)</th>
+            <th>FATCA (Form 8938)</th>
+        </tr>
+        <tr>
+            <td><strong>Who files?</strong></td>
+            <td>US persons with foreign accounts</td>
+            <td>US taxpayers with foreign financial assets</td>
+        </tr>
+        <tr>
+            <td><strong>Filed with</strong></td>
+            <td>FinCEN (separate from tax return)</td>
+            <td>IRS (attached to Form 1040)</td>
+        </tr>
+        <tr>
+            <td><strong>Filing method</strong></td>
+            <td>Electronic only via BSA E-Filing</td>
+            <td>With your tax return (paper or e-file)</td>
+        </tr>
+        <tr>
+            <td><strong>Threshold (US residents)</strong></td>
+            <td>$10,000 aggregate at any point</td>
+            <td>$50,000 (year-end) or $75,000 (any point)</td>
+        </tr>
+        <tr>
+            <td><strong>Threshold (expats, single)</strong></td>
+            <td>$10,000 aggregate at any point</td>
+            <td>$200,000 (year-end) or $300,000 (any point)</td>
+        </tr>
+        <tr>
+            <td><strong>Threshold (expats, MFJ)</strong></td>
+            <td>$10,000 aggregate at any point</td>
+            <td>$400,000 (year-end) or $600,000 (any point)</td>
+        </tr>
+        <tr>
+            <td><strong>What's reported</strong></td>
+            <td>Bank accounts, investment accounts, mutual funds, pensions with account numbers</td>
+            <td>Same as FBAR plus: foreign stock/securities, financial instruments, contracts, insurance</td>
+        </tr>
+        <tr>
+            <td><strong>Deadline</strong></td>
+            <td>April 15 (auto-ext to Oct 15)</td>
+            <td>With your tax return deadline</td>
+        </tr>
+        <tr>
+            <td><strong>Penalty (non-willful)</strong></td>
+            <td>Up to $10,000 per account per year</td>
+            <td>$10,000 per form</td>
+        </tr>
+        <tr>
+            <td><strong>Penalty (willful)</strong></td>
+            <td>$100,000 or 50% of balance</td>
+            <td>$50,000 + criminal prosecution</td>
+        </tr>
+        <tr>
+            <td><strong>Do I need both?</strong></td>
+            <td colspan="2"><strong>YES — if you meet both thresholds, you must file both.</strong> Filing one does NOT exempt you from the other.</td>
+        </tr>
+    </table>
+
+    <h2 class="section-title">What Counts as a "Foreign Financial Account"?</h2>
+    <div class="budget-card">
+        <h3>FBAR Only</h3>
+        <p>Bank accounts (checking, savings) | Securities accounts | Mutual funds | Debit/prepaid card accounts |
+        Insurance policies with cash value | Accounts you have signature authority over (even if not yours)</p>
+    </div>
+    <div class="budget-card">
+        <h3>FATCA Only (in addition to FBAR assets)</h3>
+        <p>Foreign stock or securities not in an account | Foreign partnership interests |
+        Foreign mutual funds (PFICs) | Foreign hedge funds | Foreign-issued life insurance |
+        Foreign pension plans (some) | Financial contracts held for investment</p>
+    </div>
+
+    <h2 class="section-title">Quick Decision Guide</h2>
+    <ul class="checklist">
+        <li>
+            <strong>Foreign accounts total exceeded $10,000 at ANY point?</strong>
+            File FBAR. This is an aggregate total — if you have 5 accounts with $2,500 each = $12,500 = FBAR required.
+        </li>
+        <li>
+            <strong>Foreign financial assets exceed the FATCA threshold?</strong>
+            File Form 8938 with your 1040. Expat thresholds are much higher than US-resident thresholds.
+        </li>
+        <li>
+            <strong>You have a foreign pension or retirement account?</strong>
+            Usually reportable on both FBAR and FATCA, plus possibly Form 3520 if it's a foreign trust.
+        </li>
+        <li>
+            <strong>You hold foreign mutual funds?</strong>
+            Report on FBAR + FATCA + Form 8621 (PFIC). Consider switching to US-domiciled funds.
+        </li>
+    </ul>
+
+    <div class="highlight-box">
+        <h3>Common Mistakes to Avoid</h3>
+        <p><strong>Mistake 1:</strong> Thinking FBAR is part of your tax return — it's filed separately via BSA E-Filing.<br>
+        <strong>Mistake 2:</strong> Using year-end balance for FBAR threshold — it's the maximum balance at ANY point during the year.<br>
+        <strong>Mistake 3:</strong> Forgetting joint accounts — if you have signature authority, you must report it.<br>
+        <strong>Mistake 4:</strong> Filing only one — if you meet both thresholds, both are required.</p>
+    </div>
+
+    <div class="tip-box">
+        <strong>Pro Tip:</strong> Use the free FBAR and FATCA threshold calculators at
+        <a href="https://returnmytax.com">returnmytax.com</a> to determine exactly which
+        forms you need to file based on your accounts and balances.
+    </div>
+    
+    </div>
+    <div class="cta-section">
+        <h2>Get More Free Guides Like This</h2>
+        <p>Explore our full library of free tools, calculators, and guides.</p>
+        <a href="https://returnmytax.com" class="cta-button">Visit ReturnMyTax</a>
+    </div>
+    <div class="footer">
+        <p>&copy; 2026 ReturnMyTax &mdash; <a href="https://returnmytax.com">returnmytax.com</a></p>
+        <div class="cross-links">
+            <p>More free resources: <a href="https://aihowtoinvest.com">AI How To Invest</a> | <a href="https://studloans.com">StudLoans</a> | <a href="https://attractionscout.com">AttractionScout</a></p>
+        </div>
+    </div>
+</body>
+</html>
