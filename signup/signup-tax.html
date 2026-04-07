@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Expat Tax Tips — Free Weekly</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,sans-serif;background:#f9fafb;font-size:18px;line-height:1.7}
+.c{max-width:480px;margin:60px auto;padding:40px 30px;background:#fff;border-radius:16px;box-shadow:0 4px 24px rgba(0,0,0,.08)}
+h1{font-size:26px;color:#7c3aed;margin-bottom:8px}
+.sub{color:#6b7280;margin-bottom:24px}
+ul{list-style:none;margin-bottom:24px}
+li{padding:6px 0}li:before{content:"✓ ";color:#7c3aed;font-weight:bold}
+input{width:100%;padding:14px;font-size:18px;border:2px solid #e5e7eb;border-radius:10px;margin-bottom:10px}
+input:focus{outline:none;border-color:#7c3aed}
+button{width:100%;padding:14px;font-size:18px;font-weight:bold;background:#7c3aed;color:#fff;border:none;border-radius:10px;cursor:pointer}
+button:hover{opacity:.9}
+.pr{font-size:13px;color:#9ca3af;text-align:center;margin-top:14px}
+.ok{display:none;text-align:center;padding:30px 0}
+.ok h2{color:#7c3aed;margin-bottom:12px}
+</style>
+</head>
+<body>
+<div class="c" id="f">
+<h1>Expat Tax Tips — Free Weekly</h1>
+<p class="sub">Free weekly tips — no spam, unsubscribe anytime.</p>
+<ul><li>FBAR deadlines</li><li>Foreign Tax Credit tips</li><li>Step-by-step filing guides</li></ul>
+<form id="sf" action="https://telegram-bot.zivtools.workers.dev/signup" method="POST">
+<input type="hidden" name="list" value="8">
+<input type="hidden" name="site" value="returnmytax.com">
+<input type="email" name="email" placeholder="Your email address" required>
+<input type="tel" name="phone" placeholder="Phone number (optional, for SMS tips)">
+<button type="submit">Get Free Tips →</button>
+</form>
+<p class="pr">We respect your privacy. Unsubscribe anytime.</p>
+</div>
+<div class="c ok" id="ok">
+<h2>You are in!</h2>
+<p>Check your email for your first tip.</p>
+<p style="margin-top:16px"><a href="https://returnmytax.com" style="color:#7c3aed">Visit returnmytax.com →</a></p>
+</div>
+<script>
+document.getElementById(sf).onsubmit=function(e){
+  e.preventDefault();
+  var d=new FormData(this);
+  fetch(this.action,{method:POST,body:d}).then(function(){
+    document.getElementById(f).style.display=none;
+    document.getElementById(ok).style.display=block;
+  }).catch(function(){
+    document.getElementById(f).style.display=none;
+    document.getElementById(ok).style.display=block;
+  });
+};
+</script>
+</body>
+</html>
