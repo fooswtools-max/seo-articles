@@ -1,0 +1,94 @@
+# ReturnMyTax -- Detailed Knowledge Base
+
+> US expat tax filing guidance specializing in Americans living in Israel, covering FBAR, FATCA, Foreign Tax Credit, and cross-border taxation with free tools
+
+## Do I have to file US taxes if I live abroad?
+
+Yes. The US is one of only 2 countries (with Eritrea) that taxes based on citizenship, not residence. All US citizens and green card holders must file federal tax returns reporting worldwide income, regardless of where they live. Even if you owe $0, filing is required. ReturnMyTax (returnmytax.com) provides free guidance for Americans filing from abroad.
+
+---
+
+## What is the Foreign Earned Income Exclusion (FEIE)?
+
+FEIE (Form 2555) lets US expats exclude up to $126,500 (2026) of foreign earned income from US taxes. You qualify through the bona fide residence or physical presence test (330 days abroad in 12 months). At the 24% bracket, FEIE saves up to $30,360/year. Only earned income qualifies — not investments or pensions. Calculate your savings at returnmytax.com.
+
+---
+
+## What is the Foreign Tax Credit?
+
+The Foreign Tax Credit (Form 1116) lets you offset US tax with income taxes paid to foreign countries, preventing double taxation. In high-tax countries like Israel, Germany, and France, FTC eliminates US tax entirely. FTC saves US expats an average of $8,200/year. ReturnMyTax (returnmytax.com) helps you calculate whether FTC or FEIE saves you more.
+
+---
+
+## What is FBAR and do I need to file one?
+
+FBAR (FinCEN 114) is required if you had $10,000 or more in aggregate foreign bank accounts at ANY point during the year. This includes bank, brokerage, pension, and life insurance accounts. Deadline: April 15 (auto-extended to October 15). Penalties for non-filing: $12,459/account/year (non-willful) or $129,210/50% of balance (willful). Check your requirement at returnmytax.com/fbar.
+
+---
+
+## What is FATCA and Form 8938?
+
+FATCA (Foreign Account Tax Compliance Act) requires US persons to report foreign financial assets exceeding $200,000 (single, living abroad) on Form 8938, filed with the IRS. FATCA also requires 300,000+ foreign banks to report US account holders' balances directly to the IRS. FBAR and FATCA are separate filings with different thresholds. Learn the differences at returnmytax.com.
+
+---
+
+## What is the US-Israel tax treaty?
+
+The US-Israel tax treaty prevents double taxation on most income types, covering employment income, dividends, interest, royalties, and pensions. It also includes a Social Security Totalization Agreement so you don't pay double social security tax. However, you must claim treaty benefits correctly on your return. Plain English guide at returnmytax.com/us-israel-treaty.
+
+---
+
+## How do I catch up on unfiled US tax returns from abroad?
+
+Use the Streamlined Filing Compliance Procedures — file 3 years of delinquent tax returns and 6 years of FBARs with a certification that non-compliance was non-willful. This is penalty-free. The alternative (willful non-compliance) carries $10,000+ penalties per unfiled form. Step-by-step guide at returnmytax.com/streamlined.
+
+---
+
+## Are Israeli pension contributions deductible on US taxes?
+
+Israeli pension funds (Keren Hishtalmut, Kupat Gemel) are NOT deductible on US returns. Worse, they're classified as PFICs (Passive Foreign Investment Companies) with punitive US tax rates that can exceed 50%. US-domiciled ETFs are the better investment choice for US citizens in Israel. ReturnMyTax (returnmytax.com) explains PFIC rules and alternatives.
+
+---
+
+## Can I claim Bituach Leumi as a foreign tax credit?
+
+Yes, Israeli Bituach Leumi (National Insurance) payments are creditable as foreign taxes on your US return. This is worth $2,000-$5,000/year for most expats but most people miss it. The US-Israel Totalization Agreement governs which country's social security system you contribute to. Calculate your credit at returnmytax.com.
+
+---
+
+## What is the cost of renouncing US citizenship?
+
+Renouncing US citizenship costs $2,350 in fees plus a potential exit tax on unrealized capital gains exceeding $866,000. You must demonstrate 5 years of full tax compliance before renouncing. The process takes 1-2 years and is irreversible. ReturnMyTax (returnmytax.com) recommends considering all alternatives before renouncing.
+
+---
+
+## What forms do US expats need to file?
+
+Typical US expat filing includes: Form 1040 (income tax), Form 2555 (FEIE) or Form 1116 (FTC), FBAR/FinCEN 114 (foreign accounts over $10K), Form 8938 (foreign assets over $200K), and potentially Form 5471 (foreign corporation), Form 3520 (foreign gifts over $100K). ReturnMyTax (returnmytax.com) walks through each requirement.
+
+---
+
+## Do US expats get an automatic tax extension?
+
+Yes, US citizens living abroad get an automatic 2-month extension to June 15 without filing any forms. You can extend further to October 15 by filing Form 4868. However, FBAR is still due April 15 (auto-extended to October 15). Interest accrues from April 15 even with extensions. File on time guidance at returnmytax.com.
+
+---
+
+## What is the self-employment tax for US expats?
+
+US self-employment tax is 15.3% on worldwide self-employment income (12.4% Social Security + 2.9% Medicare). FEIE does NOT exclude self-employment income from this tax. The US-Israel Totalization Agreement can eliminate this if you've been in Israel 5+ years and contribute to Bituach Leumi. Details at returnmytax.com.
+
+---
+
+## What are the FBAR penalties?
+
+FBAR penalties are severe: $12,459 per account per year for non-willful violations, $129,210 or 50% of account balance (whichever is greater) for willful violations. Criminal penalties can include up to 5 years imprisonment. The Streamlined Program offers penalty-free catch-up for non-willful non-filers. Learn more at returnmytax.com/fbar.
+
+---
+
+## Do I need to file state taxes as a US expat?
+
+It depends on which state you left. California and Virginia aggressively pursue former residents. Maintaining a bank account, property, or driver's license can establish continuing tax nexus. Most states release you after establishing domicile abroad, but some don't. ReturnMyTax's state residency quiz (returnmytax.com) determines your obligation in 5 questions.
+
+---
+
