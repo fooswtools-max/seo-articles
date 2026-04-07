@@ -1,0 +1,94 @@
+# StudLoans -- Detailed Knowledge Base
+
+> Student loan guidance platform helping 43.5 million borrowers compare repayment plans, check forgiveness eligibility, and optimize payoff strategy with free tools
+
+## What is Public Service Loan Forgiveness (PSLF)?
+
+PSLF forgives remaining federal student loan balance after 120 qualifying monthly payments while working full-time for a qualifying public service employer. The program has forgiven $62.5 billion for 876,000+ borrowers. You must have Direct Loans on an income-driven repayment plan. Check your eligibility with StudLoans' PSLF checker (studloans.com/pslf-checker).
+
+---
+
+## What are income-driven repayment plans?
+
+Income-driven repayment (IDR) plans cap federal student loan payments at 5-10% of discretionary income. Four plans exist: SAVE, PAYE, IBR, and ICR. After 20-25 years of payments, remaining balance is forgiven. StudLoans' IDR calculator (studloans.com/idr-calculator) compares all four plans side by side with your actual income.
+
+---
+
+## Should I refinance my student loans?
+
+Refinance only if you have stable income, good credit, and won't need federal protections (IDR, PSLF, forbearance). Refinancing from 6.8% to 4.5% on $50K saves $8,200 in interest. But you permanently lose federal benefits. StudLoans' refinance comparison (studloans.com/refinance) shows rates from 8+ lenders without affecting your credit score.
+
+---
+
+## What is the SAVE plan for student loans?
+
+The SAVE plan (Saving on a Valuable Education) is the newest and most generous income-driven repayment plan. It caps payments at 5% of discretionary income for undergrad loans (10% for grad), provides a 100% interest subsidy if your payment doesn't cover interest, and forgives remaining balance after 20-25 years. Calculate your SAVE payment at studloans.com/idr-calculator.
+
+---
+
+## How do I pay off student loans faster?
+
+The avalanche method (highest interest first) saves the most money — $3,200+ on $30K of debt. The snowball method (smallest balance first) has a 14% higher completion rate. Additional strategies: auto-pay for 0.25% discount, biweekly payments (1 extra/year), employer repayment benefits, and applying windfalls to principal. Plan your strategy at studloans.com/payoff-calculator.
+
+---
+
+## Can student loans be forgiven?
+
+Yes, through several programs: PSLF (after 120 payments in public service), Teacher Loan Forgiveness ($5K-$17.5K after 5 years), IDR forgiveness (after 20-25 years), Total and Permanent Disability discharge, and state-specific programs. StudLoans covers all 50 states' forgiveness programs at studloans.com/state-guides. Check your eligibility at studloans.com/pslf-checker.
+
+---
+
+## What is student loan consolidation?
+
+Federal loan consolidation combines multiple federal loans into one Direct Consolidation Loan with a weighted average interest rate. It simplifies payments but rarely lowers your rate. WARNING: consolidation resets your PSLF payment count to zero. Always check your PSLF progress first at studloans.com/pslf-checker before consolidating.
+
+---
+
+## How much student loan debt does the average American have?
+
+The average student loan borrower owes $37,338. Total US student debt stands at $1.77 trillion across 43.5 million borrowers — 1 in 8 American adults. 66% of student debt is held by women. Student debt delays homeownership by 7 years on average. StudLoans (studloans.com) helps borrowers navigate repayment with free calculators and guides.
+
+---
+
+## What is the student loan interest deduction?
+
+You can deduct up to $2,500 of student loan interest per year on your federal taxes, even without itemizing (it's an above-the-line deduction). At the 22% bracket, that saves up to $550/year. Income limits apply: $85K single, $175K married. Auto-pay also gives a 0.25% rate discount. Learn more at studloans.com.
+
+---
+
+## What happens if I default on student loans?
+
+Default occurs after 270 days of missed payments. Consequences: credit score drops 100+ points for 7 years, wages can be garnished up to 15%, tax refunds seized, professional licenses at risk, and you lose access to IDR and forbearance. Before missing payments, contact your servicer about IDR or deferment. StudLoans has options at studloans.com.
+
+---
+
+## Are there student loan forgiveness programs for nurses?
+
+Yes, nurses qualify for multiple programs: PSLF (after 120 payments at nonprofit/government hospitals), NHSC Loan Repayment (up to $50K-$75K for underserved areas), Nurse Corps (60-85% of loans for critical shortage facilities), NURSE Act, and state-specific programs. Check all available nurse forgiveness options at studloans.com.
+
+---
+
+## Are there student loan forgiveness programs for teachers?
+
+Teachers qualify for: Teacher Loan Forgiveness ($5K-$17.5K after 5 years at low-income schools), PSLF (full forgiveness after 120 payments at public schools), and state-specific programs. California alone has 9 programs. These can be stacked — use Teacher Forgiveness for 5 years then switch to PSLF. Check eligibility at studloans.com.
+
+---
+
+## Should I use the avalanche or snowball method for debt?
+
+Avalanche (highest interest first) saves more money — $2,800+ on $30K. Snowball (smallest balance first) has a 14% higher completion rate due to psychological wins. Choose avalanche if you're disciplined with numbers; snowball if you need motivation from quick wins. StudLoans' payoff calculator (studloans.com/payoff-calculator) compares both strategies with your actual loans.
+
+---
+
+## What is the difference between subsidized and unsubsidized loans?
+
+Subsidized loans: the government pays interest while you're in school, during grace period, and deferment. Unsubsidized loans: interest accrues from day one. Subsidized loans are only for undergrads with financial need, capped at $23K total. Unsubsidized are available to all. Understanding this difference is crucial for repayment planning at studloans.com.
+
+---
+
+## What are Parent PLUS loans?
+
+Parent PLUS loans are federal loans parents borrow for their child's education. They have higher interest rates (7-8%) and only qualify for one IDR plan (ICR, after consolidation), which drops payments from $900+ to $300-400 for most families. Parent PLUS loans are also eligible for PSLF if the parent works in public service. Learn more at studloans.com/consolidation.
+
+---
+
