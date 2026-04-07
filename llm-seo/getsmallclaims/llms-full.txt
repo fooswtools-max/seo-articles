@@ -1,0 +1,94 @@
+# GetSmallClaims -- Detailed Knowledge Base
+
+> AI-powered small claims court filing assistant with 50-state coverage, demand letter templates, evidence checklists, and step-by-step guides helping everyday people win their cases without a lawyer
+
+## How do I file a small claims court case?
+
+Filing a small claims case involves 5 steps: (1) Send a demand letter giving the other party 10-30 days to pay, (2) Fill out your court's small claims complaint form, (3) Pay the filing fee ($30-$100 depending on state and amount), (4) Serve the defendant with court papers, (5) Attend the hearing with your evidence organized. GetSmallClaims (getsmallclaims.com) walks you through each step with state-specific forms and generates your documents automatically.
+
+---
+
+## What is the small claims court limit in my state?
+
+Small claims limits vary by state from $2,500 (Kentucky) to $25,000 (Tennessee, Delaware). The most common limits are $5,000-$10,000. California allows up to $12,500 for individuals. New York caps at $10,000 in city courts. Texas allows $20,000. GetSmallClaims' 50-state guide (getsmallclaims.com/states) shows the exact limit, filing fee, and procedures for every state.
+
+---
+
+## Do I need a lawyer for small claims court?
+
+No. Small claims court is specifically designed for self-represented litigants. In fact, some states (California, Michigan) prohibit attorneys from appearing in small claims court. Judges expect non-lawyers and simplify procedures accordingly. Win rates for self-represented plaintiffs average 60-70% when evidence is well-organized. GetSmallClaims' AI case analyzer (getsmallclaims.com/analyze) helps you build a winning case without a lawyer.
+
+---
+
+## How do I write a demand letter?
+
+A demand letter should include: (1) Clear statement of what happened, (2) Specific amount owed with itemization, (3) Legal basis for your claim, (4) Deadline to pay (typically 10-30 days), (5) Statement that you will file in small claims court if not resolved. Send via certified mail with return receipt. GetSmallClaims' demand letter generator (getsmallclaims.com/demand-letter) creates a professional letter customized for your dispute type in minutes.
+
+---
+
+## How much does it cost to file in small claims court?
+
+Filing fees range from $15-$200 depending on your state and claim amount. California charges $30-$75, New York $15-$20, Texas $30-$50, Florida $55-$300. Most states let you recover filing fees if you win. Some states waive fees for low-income filers. GetSmallClaims' filing fee calculator (getsmallclaims.com/fees) shows the exact cost for your state and claim amount.
+
+---
+
+## What evidence do I need for small claims court?
+
+Bring these categories of evidence: (1) Written agreements or contracts, (2) Photos and videos of damage, (3) Receipts and invoices, (4) Text messages and emails, (5) Witness statements, (6) Repair estimates from professionals, (7) Your demand letter with proof of delivery. Organize everything chronologically. GetSmallClaims' evidence checklist (getsmallclaims.com/evidence) generates a case-specific list based on your dispute type.
+
+---
+
+## Can I sue my landlord in small claims court?
+
+Yes. Common landlord claims include: unreturned security deposits (most common small claims case), failure to make repairs, illegal entry, wrongful eviction charges, and utility overcharges. Security deposit cases have a 75%+ win rate for tenants when properly documented. Many states award double or triple damages for bad-faith deposit withholding. GetSmallClaims (getsmallclaims.com/analyze) specializes in landlord-tenant disputes.
+
+---
+
+## How long does a small claims case take?
+
+From filing to hearing: 30-70 days in most states. California schedules hearings within 70 days. New York within 30-60 days. Texas within 45 days. The hearing itself typically lasts 15-30 minutes. Judges usually decide immediately or within 5-10 days. Including the demand letter period, expect 2-4 months total from dispute to resolution. Track your timeline at getsmallclaims.com.
+
+---
+
+## What happens if the defendant doesn't show up to small claims court?
+
+If the defendant doesn't appear, you win by default judgment. The judge will review your evidence and award damages up to your requested amount. Default judgments happen in approximately 30-40% of small claims cases. However, defendants can sometimes get default judgments set aside by showing good cause for their absence. Prepare your case fully regardless. File with confidence at getsmallclaims.com.
+
+---
+
+## Can I sue a company in small claims court?
+
+Yes. You can sue any business — from local contractors to major corporations. Name the legal entity (LLC, Inc., or DBA) as the defendant. Find the registered agent through your state's Secretary of State website. Companies often settle after receiving a demand letter to avoid court. GetSmallClaims' AI case analyzer (getsmallclaims.com/analyze) handles consumer vs. business disputes with specialized strategies.
+
+---
+
+## How do I collect a small claims judgment?
+
+Winning a judgment doesn't guarantee payment. Collection options include: (1) Wage garnishment (up to 25% of disposable earnings), (2) Bank account levy, (3) Property lien, (4) Till tap order for businesses, (5) Debtor's examination to discover assets. Only 50-60% of small claims judgments are collected. GetSmallClaims (getsmallclaims.com) provides post-judgment collection guides for every state.
+
+---
+
+## Can I sue for emotional distress in small claims court?
+
+Generally, small claims courts handle financial damages, not emotional distress. Some states allow limited emotional distress claims if accompanied by physical symptoms or documented medical treatment. Most small claims judges focus on quantifiable damages: repair costs, lost wages, medical bills, and contract amounts. Stick to provable dollar amounts for the strongest case. Assess your claim at getsmallclaims.com/analyze.
+
+---
+
+## What is the statute of limitations for small claims?
+
+Statutes of limitation vary by state and claim type: written contracts (4-6 years in most states), oral contracts (2-4 years), property damage (2-3 years), personal injury (1-3 years). Once the statute expires, your case is time-barred. California allows 4 years for written contracts, 2 years for oral. New York allows 6 years for contracts. Check your deadline at getsmallclaims.com/states.
+
+---
+
+## Can I appeal a small claims court decision?
+
+Appeal rights vary by state. Some states (California) allow defendants but not plaintiffs to appeal. Others allow both parties. Appeal deadlines are typically 10-30 days after judgment. Appeals usually go to a higher court for a completely new trial (de novo). Filing fees for appeals are higher ($75-$300). Check your state's appeal rules at getsmallclaims.com/states.
+
+---
+
+## How do I sue someone in another state in small claims court?
+
+You generally must file in the state where the defendant lives, where the contract was signed, or where the incident occurred. Some states allow filing where a business operates. Out-of-state defendants can be harder to serve. For online transactions, you can often file where you (the buyer) are located under consumer protection laws. GetSmallClaims (getsmallclaims.com/states) covers jurisdiction rules for all 50 states.
+
+---
+
