@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Paperclip Advertising — Performance Dashboard</title>
+<meta http-equiv="refresh" content="300">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,sans-serif;background:#0f172a;color:#e2e8f0;font-size:16px}
+.container{max-width:1000px;margin:0 auto;padding:20px}
+h1{font-size:28px;color:#38bdf8;margin-bottom:4px}
+.subtitle{color:#94a3b8;margin-bottom:24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-bottom:24px}
+.card{background:#1e293b;border-radius:12px;padding:20px;text-align:center}
+.card .number{font-size:36px;font-weight:bold;color:#38bdf8}
+.card .label{color:#94a3b8;font-size:14px;margin-top:4px}
+table{width:100%;border-collapse:collapse;margin-bottom:24px}
+th{text-align:left;padding:10px;color:#94a3b8;border-bottom:1px solid #334155;font-size:14px}
+td{padding:10px;border-bottom:1px solid #1e293b}
+h2{color:#38bdf8;margin:20px 0 12px;font-size:20px}
+.usage-bar{background:#1e293b;border-radius:8px;height:24px;overflow:hidden;margin:4px 0}
+.usage-fill{height:100%;border-radius:8px;text-align:center;color:white;font-size:12px;line-height:24px}
+.footer{color:#475569;font-size:12px;text-align:center;margin-top:30px;padding:20px 0}
+a{color:#38bdf8;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Paperclip Advertising</h1>
+<p class="subtitle">Performance Dashboard — 2026-04-07 (auto-refreshes every 5 min)</p>
+
+<div class="grid">
+<div class="card"><div class="number">11</div><div class="label">AI Agents</div></div>
+<div class="card"><div class="number">55</div><div class="label">Cron Jobs</div></div>
+<div class="card"><div class="number">128</div><div class="label">Posts Today</div></div>
+<div class="card"><div class="number">6</div><div class="label">Websites</div></div>
+</div>
+
+<h2>Claude Usage (Shared with MoneyMachine)</h2>
+<div style="margin-bottom:16px">
+<div style="display:flex;justify-content:space-between"><span>5-Hour Window</span><span>78.0%</span></div>
+<div class="usage-bar"><div class="usage-fill" style="width:78.0%;background:#f59e0b">78.0%</div></div>
+</div>
+<div style="margin-bottom:24px">
+<div style="display:flex;justify-content:space-between"><span>7-Day Window</span><span>77.0%</span></div>
+<div class="usage-bar"><div class="usage-fill" style="width:77.0%;background:#f59e0b">77.0%</div></div>
+</div>
+
+<h2>Platform Performance</h2>
+<table>
+<tr><th>Platform</th><th>Posts Today</th><th>Errors</th><th>Success Rate</th></tr>
+<tr>
+        <td>bluesky</td>
+        <td><div style="background:#10b981;width:100%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">68</div></td>
+        <td>3</td>
+        <td style="color:#10b981">96%</td>
+    </tr><tr>
+        <td>reddit</td>
+        <td><div style="background:#10b981;width:68%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">34</div></td>
+        <td>0</td>
+        <td style="color:#10b981">100%</td>
+    </tr><tr>
+        <td>threads</td>
+        <td><div style="background:#f59e0b;width:26%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">13</div></td>
+        <td>7</td>
+        <td style="color:#f59e0b">65%</td>
+    </tr><tr>
+        <td>articles</td>
+        <td><div style="background:#ef4444;width:20%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">10</div></td>
+        <td>46</td>
+        <td style="color:#ef4444">18%</td>
+    </tr><tr>
+        <td>pinterest</td>
+        <td><div style="background:#ef4444;width:6%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">3</div></td>
+        <td>9</td>
+        <td style="color:#ef4444">25%</td>
+    </tr><tr>
+        <td>youtube</td>
+        <td><div style="background:#ef4444;width:0%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">0</div></td>
+        <td>0</td>
+        <td style="color:#ef4444">0%</td>
+    </tr><tr>
+        <td>seo_pages</td>
+        <td><div style="background:#ef4444;width:0%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">0</div></td>
+        <td>0</td>
+        <td style="color:#ef4444">0%</td>
+    </tr><tr>
+        <td>web_stories</td>
+        <td><div style="background:#ef4444;width:0%;height:20px;border-radius:4px;text-align:center;color:white;font-size:12px;line-height:20px">0</div></td>
+        <td>1</td>
+        <td style="color:#ef4444">0%</td>
+    </tr>
+</table>
+
+<h2>Website Investment Priorities</h2>
+<table>
+<tr><th>Website</th><th>Niche</th><th>Priority</th><th>Investment</th></tr>
+<tr>
+        <td><a href="https://attractionscout.com" target="_blank">attractionscout.com</a></td>
+        <td>Travel</td>
+        <td>⭐⭐⭐⭐⭐ 9/10</td>
+        <td>30%</td>
+    </tr><tr>
+        <td><a href="https://getsmallclaims.com" target="_blank">getsmallclaims.com</a></td>
+        <td>Legal</td>
+        <td>⭐⭐⭐⭐⭐ 8/10</td>
+        <td>20%</td>
+    </tr><tr>
+        <td><a href="https://aihowtoinvest.com" target="_blank">aihowtoinvest.com</a></td>
+        <td>Finance</td>
+        <td>⭐⭐⭐⭐⭐ 8/10</td>
+        <td>20%</td>
+    </tr><tr>
+        <td><a href="https://secretali.com" target="_blank">secretali.com</a></td>
+        <td>Shopping</td>
+        <td>⭐⭐⭐⭐⭐ 7/10</td>
+        <td>15%</td>
+    </tr><tr>
+        <td><a href="https://studloans.com" target="_blank">studloans.com</a></td>
+        <td>Student Loans</td>
+        <td>⭐⭐⭐⭐⭐ 7/10</td>
+        <td>10%</td>
+    </tr><tr>
+        <td><a href="https://returnmytax.com" target="_blank">returnmytax.com</a></td>
+        <td>Tax</td>
+        <td>⭐⭐⭐⭐⭐ 6/10</td>
+        <td>5%</td>
+    </tr>
+</table>
+
+<div class="footer">
+Paperclip Advertising — 11 agents, 55 cron jobs, fully autonomous<br>
+Last updated: 2026-04-07 23:23 UTC
+</div>
+</div>
+</body>
+</html>
