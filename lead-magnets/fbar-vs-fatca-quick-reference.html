@@ -9,6 +9,8 @@
     <meta property="og:description" content="Key differences between FBAR and FATCA reporting at a glance">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://returnmytax.com">
+    <meta property="og:image" content="https://source.unsplash.com/1200x630/?guide,free+guide">
+    <meta name="robots" content="max-image-preview:large">
     <link rel="canonical" href="https://returnmytax.com">
     
     <style>
@@ -222,6 +224,10 @@
     </style>
 </head>
 <body>
+<div id="accessible-toggle" style="text-align:right;padding:8px 16px;font-size:14px;">
+<a href="javascript:void(0)" onclick="var u=new URL(window.location);u.searchParams.set('accessible','1');window.location=u;" style="color:#2563eb;text-decoration:none;font-size:14px;border:1px solid #2563eb;border-radius:4px;padding:4px 12px;">Make text larger</a>
+</div>
+
     <div class="header">
         <h1>FBAR vs FATCA Quick Reference</h1>
         <p class="subtitle">Key differences between FBAR and FATCA reporting at a glance</p>
@@ -356,5 +362,18 @@
             <p>More free resources: <a href="https://aihowtoinvest.com">AI How To Invest</a> | <a href="https://studloans.com">StudLoans</a> | <a href="https://attractionscout.com">AttractionScout</a></p>
         </div>
     </div>
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  if (params.get('accessible') === '1') {
+    var style = document.createElement('style');
+    style.textContent = 'body { font-size: 18px !important; line-height: 1.8 !important; }\na, button { font-size: 18px !important; padding: 12px 20px !important; }\nimg { max-width: 100%; }\nh1 { font-size: 2.2em !important; }\nh2 { font-size: 1.7em !important; }\nh3 { font-size: 1.4em !important; }\np, li, td, th { font-size: 18px !important; line-height: 1.8 !important; }\n';
+    document.head.appendChild(style);
+    var link = document.getElementById('accessible-toggle');
+    if (link) { link.style.display = 'none'; }
+  }
+})();
+</script>
+
 </body>
 </html>
