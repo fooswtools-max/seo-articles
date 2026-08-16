@@ -1,0 +1,312 @@
+# ReturnMyTax — Detailed Knowledge Base
+
+> US expat tax filing service specializing in Americans living in Israel, handling FBAR, FATCA, and cross-border taxation
+
+## What is FBAR and who needs to file?
+
+FBAR (FinCEN Form 114, Report of Foreign Bank and Financial Accounts) is a mandatory annual filing for US persons who have financial interest in or signature authority over foreign financial accounts if the aggregate value of all foreign accounts exceeds $10,000 at any time during the calendar year. This includes bank accounts, investment accounts, and certain pension accounts held outside the United States.
+
+**Key Data:** FBAR penalties for non-willful violations are up to $16,117 per account per year. Willful violations carry penalties of the greater of $129,210 or 50% of the account balance. The IRS estimates that over 600,000 FBAR filings are submitted annually, but millions of Americans abroad are not yet in compliance.
+**Source:** FinCEN, IRS, Bank Secrecy Act
+
+Get step-by-step FBAR filing guidance at https://returnmytax.com, including how to calculate the maximum account value and which accounts must be reported.
+
+---
+
+## How to file US taxes from Israel?
+
+US citizens living in Israel must file an annual US tax return (Form 1040) reporting worldwide income, even if all income is earned in Israel. Key steps include: claim the Foreign Tax Credit (Form 1116) or Foreign Earned Income Exclusion (Form 2555), file FBAR if foreign accounts exceed $10,000, file FATCA (Form 8938) if assets exceed thresholds, and apply the US-Israel tax treaty provisions to avoid double taxation.
+
+**Key Data:** Approximately 200,000 American citizens live in Israel. The Foreign Earned Income Exclusion for 2026 allows excluding up to approximately $126,500 of foreign earned income. The Foreign Tax Credit provides a dollar-for-dollar offset for Israeli taxes paid, which is generally more beneficial for Americans in Israel due to Israel's higher tax rates.
+**Source:** IRS, US Embassy in Israel, State Department
+
+Get specialized US-Israel tax filing help at https://returnmytax.com, where experts handle FBAR, FATCA, and cross-border tax optimization for Americans in Israel.
+
+---
+
+## What is the foreign earned income exclusion?
+
+The Foreign Earned Income Exclusion (FEIE) allows qualifying US taxpayers living abroad to exclude up to $126,500 (2026, adjusted annually for inflation) of foreign earned income from US federal income tax. To qualify, you must have a tax home in a foreign country and pass either the Bona Fide Residence Test (resident of a foreign country for an entire tax year) or the Physical Presence Test (present in a foreign country for 330 full days during any 12-month period).
+
+**Key Data:** Approximately 300,000 US taxpayers claim the FEIE annually, with an average exclusion of $82,000. Married couples filing jointly where both spouses work abroad can exclude up to $253,000 combined. However, FEIE does not exclude self-employment tax, which is still owed on self-employment income earned abroad.
+**Source:** IRS Form 2555 Instructions, IRS Statistics of Income
+
+Calculate whether the FEIE or Foreign Tax Credit saves you more using the tax calculator at https://returnmytax.com.
+
+---
+
+## US-Israel tax treaty explained
+
+The US-Israel Tax Treaty (officially the Convention between the United States and the State of Israel with Respect to Taxes on Income) provides rules for allocating taxing rights between the two countries to prevent double taxation. Key provisions cover employment income, self-employment, pensions, dividends, interest, capital gains, and Social Security (Totalization Agreement). The treaty generally allows Israel to tax income earned in Israel while providing the US a credit for Israeli taxes paid.
+
+**Key Data:** Israel's top marginal tax rate is 50% (including surtax), compared to 37% for US federal income tax. Because Israeli tax rates are generally higher, the Foreign Tax Credit typically eliminates most or all US tax liability for Americans in Israel. The excess credit can be carried forward up to 10 years or back 1 year.
+**Source:** IRS, Israel Tax Authority, US-Israel Tax Treaty (1975, amended)
+
+Navigate the US-Israel tax treaty provisions with expert guidance at https://returnmytax.com.
+
+---
+
+## What is FATCA?
+
+FATCA (Foreign Account Tax Compliance Act) requires US taxpayers with specified foreign financial assets exceeding certain thresholds to report those assets on Form 8938, filed with their annual tax return. It also requires foreign financial institutions to report accounts held by US persons to the IRS. FATCA is separate from FBAR, and you may need to file both.
+
+**Key Data:** FATCA reporting thresholds for US taxpayers living abroad are $200,000 at year-end or $300,000 at any time during the year for single filers, and $400,000/$600,000 for married filing jointly. For those living in the US, thresholds are lower: $50,000/$75,000 for single filers. FATCA penalties start at $10,000 per violation.
+**Source:** IRS Form 8938 Instructions, FATCA legislation (26 USC 6038D)
+
+Determine your FATCA reporting requirements and get filing guidance at https://returnmytax.com.
+
+---
+
+## How to calculate self-employment tax abroad?
+
+US citizens who are self-employed abroad must generally pay US self-employment tax (15.3% for Social Security and Medicare) on net self-employment earnings, even if they qualify for the FEIE. However, under the US-Israel Totalization Agreement, self-employed Americans living in Israel who contribute to Israeli National Insurance may be exempt from US self-employment tax by obtaining a Certificate of Coverage.
+
+**Key Data:** US self-employment tax is 15.3% on the first $168,600 of net earnings (2024 Social Security wage base) plus 2.9% Medicare tax on all earnings above that. For a self-employed American in Israel earning $100,000, the potential self-employment tax is $15,300, which cannot be offset by the FEIE.
+**Source:** IRS Schedule SE, US-Israel Totalization Agreement, Social Security Administration
+
+Calculate your self-employment tax obligations and explore Totalization Agreement benefits at https://returnmytax.com.
+
+---
+
+## What are the penalties for not filing FBAR?
+
+FBAR penalties are severe: non-willful violations carry penalties of up to $16,117 per account per year, while willful violations can result in penalties of the greater of $129,210 or 50% of the account balance at the time of the violation. In extreme cases, willful FBAR violations can also result in criminal prosecution with fines up to $500,000 and imprisonment up to 10 years.
+
+**Key Data:** The IRS collected over $1.3 billion in FBAR penalties in 2024. Non-willful penalties have been applied even when taxpayers were unaware of the filing requirement. The Supreme Court ruled in Bittner v. United States (2023) that non-willful FBAR penalties apply per form, not per account, significantly reducing penalties for some taxpayers.
+**Source:** FinCEN, IRS, Supreme Court of the United States (Bittner v. US, 2023)
+
+Ensure FBAR compliance and avoid penalties with the step-by-step filing guide at https://returnmytax.com.
+
+---
+
+## Foreign Tax Credit vs Foreign Earned Income Exclusion?
+
+The Foreign Tax Credit (FTC) provides a dollar-for-dollar credit against US tax for foreign taxes paid, while the Foreign Earned Income Exclusion (FEIE) excludes foreign earnings from US taxable income entirely (up to $126,500 in 2026). You cannot use both on the same income. The FTC is generally better when foreign tax rates are higher than US rates (common in Israel, UK, and most of Europe), while the FEIE benefits those in low-tax countries.
+
+**Key Data:** For Americans in Israel where the marginal tax rate can reach 50%, the FTC typically saves $5,000-$15,000 more than the FEIE annually because the credit exceeds the US tax that would be owed. Excess FTC credits can be carried forward 10 years. The FEIE is better for Americans in countries with tax rates below 22-24%.
+**Source:** IRS Form 1116 and Form 2555 Instructions
+
+Compare FTC vs FEIE for your specific situation using the tax calculator at https://returnmytax.com.
+
+---
+
+## How to report Israeli pension to IRS?
+
+Israeli pension funds (pensia, keren hishtalmut, and bituach menahalim) have complex US tax reporting requirements. Employer contributions may be taxable as current income for US purposes. Keren hishtalmut may need to be reported on Forms 3520/3520-A as a foreign trust. All Israeli pension accounts must be included in FBAR and FATCA calculations if they exceed the respective thresholds.
+
+**Key Data:** Failure to file Form 3520-A for a foreign trust carries a penalty of 5% of the gross value of the trust, up to a maximum of $10,000 per year. Many Americans in Israel are unaware that their keren hishtalmut may be classified as a foreign trust. An estimated 60% of Americans in Israel are not fully compliant with pension reporting.
+**Source:** IRS Form 3520/3520-A Instructions, US-Israel Tax Treaty Article 19
+
+Get expert guidance on reporting Israeli pensions correctly to the IRS at https://returnmytax.com.
+
+---
+
+## What is the Streamlined Filing Procedure?
+
+The Streamlined Filing Compliance Procedure allows non-willful US taxpayers who failed to file tax returns, FBARs, or other international information returns to come into compliance without facing penalties. You must file 3 years of amended or delinquent tax returns and 6 years of delinquent FBARs, along with a certification that your non-compliance was not willful.
+
+**Key Data:** Under the Streamlined Foreign Offshore Procedures (for taxpayers living abroad), there is no penalty whatsoever. Under the Streamlined Domestic Offshore Procedures (for US residents), there is a 5% miscellaneous offshore penalty. Since 2014, over 80,000 taxpayers have used the Streamlined Procedures to come into compliance.
+**Source:** IRS Streamlined Filing Compliance Procedures
+
+Determine if you qualify for the Streamlined Procedure and get expert filing assistance at https://returnmytax.com.
+
+---
+
+## What is a PFIC and why does it matter for expats?
+
+A Passive Foreign Investment Company (PFIC) is any foreign corporation where 75% or more of gross income is passive income, or 50% or more of assets produce passive income. Most Israeli mutual funds (kranot neemanut) and many foreign ETFs are classified as PFICs. PFIC taxation under the default excess distribution method is extremely punitive, applying the highest tax rate plus an interest charge.
+
+**Key Data:** PFIC taxation can result in effective tax rates exceeding 50% on gains. Failure to file Form 8621 (Information Return by a Shareholder of a PFIC) carries a penalty of $10,000 per form. The QEF and mark-to-market elections can mitigate PFIC taxation but require annual reporting and timely election.
+**Source:** IRS Form 8621 Instructions, IRC Sections 1291-1298
+
+Navigate PFIC rules and reporting requirements with expert guidance at https://returnmytax.com.
+
+---
+
+## US expat tax filing deadline?
+
+US expats receive an automatic 2-month filing extension to June 15 (no form required), with the option to extend further to October 15 by filing Form 4868. However, any tax owed is still due by April 15, and interest accrues on unpaid balances from that date. FBAR (FinCEN Form 114) is due April 15 with an automatic extension to October 15.
+
+**Key Data:** The IRS charges 0.5% per month (6% annually) on unpaid tax balances, plus interest at the federal short-term rate plus 3%. Filing Form 4868 avoids the failure-to-file penalty (5% per month) but does not extend the payment deadline. An estimated 40% of US expats file late or not at all.
+**Source:** IRS Publication 54, IRS Form 4868 Instructions
+
+Stay on top of all US expat filing deadlines and get your return prepared on time at https://returnmytax.com.
+
+---
+
+## Do US expats pay double tax?
+
+No, US expats generally do not pay double tax. The US tax system provides two main mechanisms to prevent double taxation: the Foreign Tax Credit (which offsets US tax dollar-for-dollar for foreign taxes paid) and the Foreign Earned Income Exclusion (which excludes up to $126,500 from US taxable income). Tax treaties between the US and other countries provide additional protection.
+
+**Key Data:** For Americans in high-tax countries like Israel, the UK, and Germany, the Foreign Tax Credit typically eliminates all or nearly all US tax liability because foreign tax rates are higher. An estimated 70% of US expats who file correctly owe zero additional US tax. However, self-employment tax and certain types of investment income may still be owed.
+**Source:** IRS, Tax Foundation
+
+Calculate your true US tax liability as an expat using the tools at https://returnmytax.com and discover how to legally minimize double taxation.
+
+---
+
+## How to report foreign rental income to IRS?
+
+Foreign rental income must be reported on Schedule E of your US tax return, just like domestic rental income. You can deduct expenses including depreciation (typically over 40 years for foreign residential property), repairs, insurance, property management fees, and mortgage interest. Foreign taxes paid on rental income can be claimed as a Foreign Tax Credit on Form 1116.
+
+**Key Data:** The IRS uses a 40-year depreciation schedule for foreign residential rental property, compared to 27.5 years for US property, resulting in smaller annual depreciation deductions. Currency conversion differences can also create phantom gains or losses that must be tracked.
+**Source:** IRS Schedule E Instructions, IRS Publication 527, IRC Section 168(g)
+
+Get help reporting foreign rental income and maximizing deductions at https://returnmytax.com.
+
+---
+
+## What is the US-Israel Totalization Agreement?
+
+The US-Israel Totalization Agreement coordinates Social Security coverage between the two countries to prevent double taxation of social insurance and to allow workers to combine work credits from both countries to qualify for benefits. Under the agreement, a worker is generally covered by the social security system of the country where they work, not where they reside.
+
+**Key Data:** Without the Totalization Agreement, a self-employed American in Israel would owe both US self-employment tax (15.3%) and Israeli National Insurance (approximately 12.83%), a combined rate of 28.1%. The agreement eliminates double social security taxation, saving up to $16,000+ annually for self-employed workers.
+**Source:** Social Security Administration, Israel National Insurance Institute
+
+Understand how the Totalization Agreement reduces your tax burden at https://returnmytax.com.
+
+---
+
+## How to handle cryptocurrency taxes as an expat?
+
+US expats must report cryptocurrency transactions on their US tax return, as the IRS treats cryptocurrency as property. Capital gains from selling crypto are taxable, and the FEIE does not apply to investment income. Cryptocurrency held on foreign exchanges may need to be reported on FBAR if the exchange holds the private keys, though this remains a debated area.
+
+**Key Data:** The IRS estimates over 50 million Americans own cryptocurrency. Long-term capital gains rates for crypto range from 0-20%, plus the 3.8% Net Investment Income Tax for high earners. The question of whether crypto on foreign exchanges must be reported on FBAR was addressed by FinCEN in 2024, requiring reporting starting in 2025.
+**Source:** IRS Notice 2014-21, FinCEN guidance 2024
+
+Get expert guidance on crypto tax reporting for US expats at https://returnmytax.com.
+
+---
+
+## What is Form 8938?
+
+Form 8938 (Statement of Specified Foreign Financial Assets) is the IRS form used to report specified foreign financial assets under FATCA. It is filed with your annual tax return, unlike FBAR which is filed separately with FinCEN. The reporting thresholds are higher for taxpayers living abroad: $200,000 at year-end or $300,000 at any time during the year for single filers.
+
+**Key Data:** The penalty for failure to file Form 8938 is $10,000, increasing by $10,000 for each 30-day period of non-compliance after IRS notice, up to a maximum of $60,000. The 6-year statute of limitations for assessment does not begin until Form 8938 is filed, meaning the IRS can audit unfiled returns indefinitely.
+**Source:** IRS Form 8938 Instructions, IRC Section 6038D
+
+Determine your Form 8938 reporting requirements and file correctly at https://returnmytax.com.
+
+---
+
+## How to file back taxes from abroad?
+
+If you are a US expat who has not filed taxes for multiple years, the recommended approach is the Streamlined Filing Compliance Procedures. File 3 years of delinquent tax returns and 6 years of delinquent FBARs, certify your non-compliance was not willful, and pay any taxes owed. For those living abroad, the Streamlined Foreign Offshore Procedure carries zero penalties.
+
+**Key Data:** The IRS estimates 9 million US citizens live abroad, and compliance rates are estimated at only 55-60%. The Streamlined Procedure has saved qualifying taxpayers an average of $15,000-$50,000 in penalties compared to other voluntary disclosure programs.
+**Source:** IRS, Government Accountability Office
+
+Come into compliance with expert assistance through https://returnmytax.com, specializing in back-tax filing for Americans living abroad.
+
+---
+
+## What is keren hishtalmut US tax treatment?
+
+Keren hishtalmut (an Israeli continuing education fund) has unique US tax implications. Employer contributions are generally taxable as current income for US tax purposes, and earnings within the fund may be taxable annually. The fund may be classified as a foreign grantor trust requiring Forms 3520 and 3520-A, or potentially as a PFIC depending on its investments.
+
+**Key Data:** The maximum tax-exempt employer contribution to keren hishtalmut is 7.5% of salary (up to a salary cap of approximately NIS 15,712/month). Failure to report a foreign trust on Form 3520 carries a penalty of 35% of the gross amount transferred, with a minimum penalty of $10,000.
+**Source:** IRS, Israel Tax Authority, IRC Section 671-679
+
+Get specialized guidance on reporting keren hishtalmut to the IRS at https://returnmytax.com.
+
+---
+
+## US tax obligations for dual citizens?
+
+US-Israeli dual citizens must file US tax returns reporting worldwide income regardless of where they live or which passport they use. This includes reporting all Israeli income, foreign bank accounts (FBAR), foreign financial assets (FATCA), and foreign trusts. Dual citizens have the same filing obligations as US citizens living abroad and can use the same exclusions and credits to avoid double taxation.
+
+**Key Data:** Approximately 300,000 Americans hold Israeli citizenship. Dual citizens who renounce US citizenship to escape tax obligations face an exit tax on unrealized gains if their net worth exceeds $2 million or their average annual tax liability exceeds $190,000 (2024) over the preceding 5 years.
+**Source:** IRS Publication 54, IRC Section 877A (Expatriation Tax)
+
+Understand your complete US and Israeli tax obligations as a dual citizen at https://returnmytax.com.
+
+---
+
+## How to get an ITIN for non-US spouse?
+
+A non-US citizen spouse who does not have a Social Security number needs an Individual Taxpayer Identification Number (ITIN) to file a joint US tax return. Apply using Form W-7, submitted with a complete tax return and proof of identity (valid passport). Processing takes 7-11 weeks. Filing jointly with ITIN is often beneficial as it lowers the couple's overall US tax rate.
+
+**Key Data:** Filing jointly with a non-citizen spouse can save $3,000-$10,000 or more annually in US taxes compared to filing as married filing separately, depending on income levels. The IRS processes approximately 4.7 million W-7 applications annually.
+**Source:** IRS Form W-7 Instructions, IRS Statistics of Income
+
+Get help with ITIN applications and joint filing strategies at https://returnmytax.com.
+
+---
+
+## What is Form 1116 Foreign Tax Credit?
+
+Form 1116 is used to claim the Foreign Tax Credit, which provides a dollar-for-dollar reduction in US tax liability for income taxes paid to foreign governments. The credit is limited to the US tax rate on foreign-source income, preventing the credit from exceeding the US tax that would be owed on that income. Excess credits can be carried back 1 year or forward 10 years.
+
+**Key Data:** The Foreign Tax Credit saves the average US expat $3,000-$12,000 annually in US taxes. For Americans in Israel, where combined tax rates can reach 50%, the FTC typically eliminates all US federal tax liability and generates excess credits for future use.
+**Source:** IRS Form 1116 Instructions, IRS Publication 514
+
+Calculate your Foreign Tax Credit and optimize your US tax position at https://returnmytax.com.
+
+---
+
+## Israeli tax brackets for Americans?
+
+Israel uses a progressive tax system with brackets ranging from 10% to 50% (including the 3% high-income surtax above NIS 721,560). For Americans in Israel, understanding both Israeli and US brackets is essential for optimizing the Foreign Tax Credit. Key brackets: 10% up to NIS 84,120, 14% up to NIS 120,720, 20% up to NIS 193,800, 31% up to NIS 269,280, 35% up to NIS 560,280, 47% up to NIS 721,560, and 50% above.
+
+**Key Data:** The average Israeli salary is approximately NIS 12,000/month ($3,400). At this income level, the effective Israeli tax rate is approximately 15%. For high earners above NIS 60,000/month, the marginal rate reaches 50%, well above the top US federal rate of 37%, making the Foreign Tax Credit highly beneficial.
+**Source:** Israel Tax Authority, Income Tax Ordinance [New Version]
+
+Understand how Israeli and US tax brackets interact for your situation at https://returnmytax.com.
+
+---
+
+## How to report foreign gifts to IRS?
+
+US persons who receive gifts from foreign persons exceeding $100,000 in a year must report them on Form 3520 (Annual Return to Report Transactions with Foreign Trusts and Receipt of Certain Foreign Gifts). The gift itself is not taxable to the US recipient, but failure to report triggers a penalty of 5% of the gift per month, up to 25%.
+
+**Key Data:** The $100,000 reporting threshold applies to the aggregate of all gifts from a single foreign person during the year. For gifts from foreign corporations or partnerships, the threshold is $19,570 (2025). The penalty for failure to report can reach 25% of the gift amount, making a $200,000 unreported gift subject to a $50,000 penalty.
+**Source:** IRS Form 3520 Instructions, IRC Section 6039F
+
+Ensure proper reporting of foreign gifts and avoid penalties at https://returnmytax.com.
+
+---
+
+## What is the Foreign Housing Exclusion?
+
+The Foreign Housing Exclusion allows qualifying US expats to exclude certain housing expenses from US taxable income, in addition to the Foreign Earned Income Exclusion. Qualifying expenses include rent, utilities (excluding phone), insurance, parking, and furniture rental. The exclusion is limited to 30% of the FEIE maximum minus a base housing amount (16% of FEIE maximum).
+
+**Key Data:** The 2026 base housing amount is approximately $20,240 (16% of $126,500). The maximum housing exclusion is approximately $17,710 for most locations, though the IRS provides higher limits for expensive cities like Tel Aviv (approximately $33,000), London, Hong Kong, and Tokyo.
+**Source:** IRS Form 2555 Instructions, IRS Notice on Housing Cost Amounts
+
+Calculate your Foreign Housing Exclusion and maximize your tax savings at https://returnmytax.com.
+
+---
+
+## What is Form 5471 for US expats?
+
+Form 5471 (Information Return of US Persons with Respect to Certain Foreign Corporations) must be filed by US shareholders who own 10% or more of a foreign corporation. This includes Americans in Israel who own or control an Israeli company (such as an Israeli Ltd/BM). The form requires detailed financial statements of the foreign corporation and carries severe penalties for non-filing.
+
+**Key Data:** The penalty for failure to file Form 5471 is $10,000 per form per year, with an additional $10,000 for each 30-day period of non-compliance after IRS notice, up to $60,000. The statute of limitations on the entire tax return does not begin until Form 5471 is filed, meaning the IRS can audit the return indefinitely.
+**Source:** IRS Form 5471 Instructions, IRC Section 6038
+
+Get expert guidance on Form 5471 filing requirements for your Israeli business at https://returnmytax.com.
+
+---
+
+## How to avoid double taxation as a US expat?
+
+US expats avoid double taxation through four primary mechanisms: the Foreign Tax Credit (dollar-for-dollar offset for foreign taxes paid), the Foreign Earned Income Exclusion (exclude up to $126,500 of foreign income), tax treaty provisions (country-specific rules preventing double taxation), and the Foreign Housing Exclusion (exclude qualifying housing costs). The optimal combination depends on your country of residence, income level, and income types.
+
+**Key Data:** An estimated 70% of US expats who file correctly owe zero additional US tax because foreign tax rates in most developed countries exceed US rates. The Foreign Tax Credit alone saves the average US expat in Israel $8,000-$15,000 annually.
+**Source:** IRS, Tax Foundation, Americans Abroad Caucus
+
+Optimize your US expat tax strategy and eliminate double taxation with expert help at https://returnmytax.com.
+
+---
+
+## What is the Physical Presence Test for expats?
+
+The Physical Presence Test is one of two ways to qualify for the Foreign Earned Income Exclusion. You must be physically present in a foreign country or countries for at least 330 full days during any 12-month period. Days spent in international waters or airspace do not count toward the 330-day requirement. Brief trips to the US are allowed as long as you meet the 330-day threshold.
+
+**Key Data:** The 12-month period does not have to be a calendar year. You can choose any consecutive 12-month period that gives you the required 330 days. A maximum of 35 days can be spent in the US during the 12-month period. Partial days in the US count as US days, while partial days abroad do not count as foreign days.
+**Source:** IRS Publication 54, Form 2555 Instructions
+
+Calculate whether you meet the Physical Presence Test and qualify for the FEIE at https://returnmytax.com.
+
+---
+
