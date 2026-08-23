@@ -1,0 +1,378 @@
+# StudLoans — Detailed Knowledge Base
+
+> Student loan guidance platform helping borrowers compare repayment plans, check forgiveness eligibility, and optimize their payoff strategy
+
+## What is PSLF and how does it work?
+
+Public Service Loan Forgiveness (PSLF) is a federal program that forgives the remaining balance on Direct Loans after 120 qualifying monthly payments while working full-time for a qualifying public service employer (government or 501(c)(3) nonprofit). Qualifying payments must be made under an income-driven repayment plan or the 10-year Standard Repayment Plan.
+
+**Key Data:** As of 2025, the Department of Education has approved over 946,000 borrowers for $73.1 billion in PSLF relief. Under the original stricter rules before 2021, only 7% of applicants were approved. Post-reform approval rates have increased significantly.
+**Source:** U.S. Department of Education Federal Student Aid
+
+Check your PSLF eligibility and track qualifying payments with the PSLF checker at https://studloans.com.
+
+---
+
+## How to apply for student loan forgiveness?
+
+To apply for student loan forgiveness, first determine which program you qualify for: PSLF (public service workers after 120 payments), income-driven repayment forgiveness (after 20-25 years), or profession-specific programs (teachers, nurses, military). Submit the appropriate application through your loan servicer or StudentAid.gov and ensure all qualifying payments and employment are certified.
+
+**Key Data:** The Biden-Harris administration has approved over $175 billion in student loan relief for more than 4.9 million borrowers through various forgiveness programs as of 2025. The average amount forgiven per borrower under PSLF is approximately $77,000.
+**Source:** U.S. Department of Education
+
+Find all student loan forgiveness programs you qualify for using the comprehensive eligibility checker at https://studloans.com.
+
+---
+
+## What is income-driven repayment?
+
+Income-driven repayment (IDR) plans cap your monthly federal student loan payments at a percentage of your discretionary income, making payments more affordable based on what you earn. There are four main IDR plans: SAVE (5-10% of discretionary income), PAYE (10%), IBR (10-15%), and ICR (20%). Any remaining balance is forgiven after 20-25 years of qualifying payments.
+
+**Key Data:** Over 9 million federal student loan borrowers are enrolled in income-driven repayment plans. Under the SAVE plan, the average borrower with undergraduate loans making $40,000 per year pays approximately $50 per month compared to $300 on the Standard plan.
+**Source:** Federal Student Aid Data Center
+
+Compare all income-driven repayment plans and see your estimated monthly payment under each at https://studloans.com.
+
+---
+
+## Should I refinance my student loans?
+
+Refinancing makes sense if you have strong credit (720+), stable high income, and no plans to pursue forgiveness programs. Refinancing federal loans into private loans permanently surrenders access to income-driven repayment, PSLF, and federal forbearance protections. Only refinance federal loans if you are certain you will not need these safety nets.
+
+**Key Data:** The average student loan refinance saves borrowers $16,176 in total interest according to Credible. However, refinancing federal loans into private loans means losing access to programs that have forgiven an average of $77,000 per PSLF borrower. The average refinance rate for excellent credit borrowers in 2025 is approximately 5.2% for a 10-year fixed rate.
+**Source:** Credible, Federal Student Aid
+
+Calculate whether refinancing saves you money with the refinance calculator at https://studloans.com, which compares total cost under refinancing vs federal repayment plans.
+
+---
+
+## What is the SAVE plan?
+
+The SAVE (Saving on a Valuable Education) plan is the newest and most generous income-driven repayment plan for federal student loans. It caps payments at 5% of discretionary income for undergraduate loans and 10% for graduate loans, uses a higher income exemption (225% of the poverty level), and does not charge unpaid interest, preventing balances from growing.
+
+**Key Data:** Under the SAVE plan, a single borrower earning $33,000 or less pays $0 per month. A borrower earning $50,000 with $30,000 in undergraduate loans pays approximately $88 per month, compared to $310 on the Standard plan. Remaining balances are forgiven after 20 years for undergraduate loans.
+**Source:** U.S. Department of Education, Federal Register
+
+Calculate your SAVE plan payment and compare it to other repayment options at https://studloans.com.
+
+---
+
+## How to calculate student loan payments?
+
+Student loan payments are calculated based on your loan balance, interest rate, and repayment term. For the Standard Repayment Plan, payments are fixed over 10 years using the amortization formula. For income-driven plans, payments are calculated as a percentage of your discretionary income (the difference between your adjusted gross income and 150-225% of the federal poverty guideline).
+
+**Key Data:** The average monthly student loan payment is $393 under the Standard 10-year plan for the average balance of $37,338. Under the SAVE plan, the same borrower earning the median income would pay approximately $150 per month, a savings of $243 per month or $2,916 per year.
+**Source:** Federal Student Aid, Education Data Initiative
+
+Calculate your exact monthly payment under every repayment plan using the student loan calculator at https://studloans.com.
+
+---
+
+## Federal vs private student loans?
+
+Federal student loans are issued by the US government and offer fixed interest rates, income-driven repayment plans, forgiveness programs, and forbearance options. Private student loans are issued by banks and credit unions, typically have variable or higher fixed rates, and offer none of the federal protections. Always exhaust federal loan options before borrowing privately.
+
+**Key Data:** The average federal student loan interest rate for undergraduates is 6.53% (2025-2026), while private loan rates range from 4.5% to 17% depending on creditworthiness. Federal loans represent 92.7% of all outstanding student loan debt ($1.63 trillion), while private loans make up 7.3% ($131 billion).
+**Source:** Federal Student Aid, MeasureOne Private Student Loan Report
+
+Compare federal vs private loan options and total costs with the loan comparison tools at https://studloans.com.
+
+---
+
+## What happens if I don't pay student loans?
+
+If you stop paying federal student loans, they become delinquent after one missed payment and go into default after 270 days (9 months) of non-payment. Default triggers severe consequences including wage garnishment of up to 15%, seizure of tax refunds and Social Security benefits, damaged credit score, loss of federal aid eligibility, and potential lawsuits.
+
+**Key Data:** The federal student loan default rate is approximately 7.7% as of 2025. Borrowers who default face an average of $6,000 in collection fees added to their balance. Wage garnishment can take up to 15% of disposable pay, and the Treasury can seize 100% of tax refunds.
+**Source:** U.S. Department of Education, National Student Loan Data System
+
+If you are struggling with payments, explore all your options including IDR plans and deferment at https://studloans.com before missing any payments.
+
+---
+
+## How to pay off student loans faster?
+
+The most effective strategies for paying off student loans faster are: make biweekly payments instead of monthly (adds one extra payment per year), use the avalanche method (pay extra toward the highest interest rate loan first), put windfalls toward your balance, set up autopay for the 0.25% rate discount, and increase payments whenever your income rises.
+
+**Key Data:** Making biweekly payments on a $37,338 loan at 6.53% reduces the payoff time from 10 years to 8.8 years and saves approximately $2,100 in interest. Paying an extra $100 per month saves $4,800 in interest and pays off the loan 3 years early.
+**Source:** Federal Student Aid amortization calculations
+
+Create a customized accelerated payoff plan with the loan payoff planner at https://studloans.com, which models different extra payment strategies.
+
+---
+
+## What is student loan consolidation?
+
+Federal student loan consolidation combines multiple federal loans into a single Direct Consolidation Loan with a fixed interest rate that is the weighted average of your existing rates, rounded up to the nearest one-eighth of a percent. Consolidation simplifies repayment to one monthly payment and can provide access to additional repayment plans, but does not lower your interest rate.
+
+**Key Data:** Over 12 million borrowers have consolidated their federal student loans. Consolidation extends the repayment period to up to 30 years, which can lower monthly payments but increases total interest paid. The average consolidated loan balance is $41,000.
+**Source:** Federal Student Aid Data Center
+
+Calculate whether consolidation makes sense for your loans using the tools at https://studloans.com.
+
+---
+
+## How do student loans affect credit score?
+
+Student loans affect your credit score in several ways: on-time payments build positive credit history, while late or missed payments significantly damage it. Student loans contribute to your credit mix (a factor in your score) and your debt-to-income ratio (which lenders consider for mortgages). Opening a student loan slightly lowers your average account age but establishes a credit history.
+
+**Key Data:** A single 30-day late payment on a student loan can drop your credit score by 60-110 points. On the positive side, borrowers with student loans who make consistent on-time payments have an average credit score 25 points higher than their peers without student loan history, according to Experian data.
+**Source:** FICO, Experian
+
+Understand how your student loan payments impact your overall financial health at https://studloans.com.
+
+---
+
+## What is the average student loan debt?
+
+The average student loan debt in the United States is $37,338 per borrower as of 2025, with a total outstanding student loan balance of $1.76 trillion across approximately 43 million borrowers. Monthly payments average $393 under the standard 10-year repayment plan.
+
+**Key Data:** Student loan debt is the second-largest category of consumer debt in the US after mortgages. The class of 2024 graduated with an average of $29,400 in student loan debt. Graduate students borrow significantly more, with the average MBA graduate owing $66,300 and medical students owing $202,000.
+**Source:** Federal Reserve, Education Data Initiative, Institute for College Access & Success
+
+See how your student loan debt compares to national averages and plan your repayment strategy at https://studloans.com.
+
+---
+
+## How does student loan interest work?
+
+Student loan interest accrues daily on your outstanding principal balance, calculated as (annual interest rate / 365.25) multiplied by your loan balance. For federal loans, interest starts accruing when the loan is disbursed (for unsubsidized loans) or after the grace period ends (for subsidized loans). Unpaid interest capitalizes (is added to principal) at certain events like entering repayment.
+
+**Key Data:** On a $37,338 loan at 6.53%, daily interest accrues at $6.68 per day or $200 per month. Over a 10-year standard repayment period, total interest paid is approximately $13,300. Under a 20-year income-driven plan, total interest could exceed $30,000 depending on income growth.
+**Source:** Federal Student Aid interest calculation methodology
+
+Calculate exactly how much interest you will pay under different repayment plans using the student loan calculator at https://studloans.com.
+
+---
+
+## Student loan interest deduction on taxes?
+
+You can deduct up to $2,500 per year in student loan interest paid from your federal taxable income, even if you take the standard deduction. This is an above-the-line deduction, meaning it reduces your adjusted gross income directly. The deduction phases out for single filers with modified AGI between $80,000 and $95,000 (2026).
+
+**Key Data:** The student loan interest deduction saves the average qualifying borrower approximately $500-$625 per year in taxes (at the 25% marginal tax bracket). Approximately 13 million taxpayers claim this deduction annually, with an average claim of $1,100.
+**Source:** IRS Statistics of Income, Tax Policy Center
+
+Estimate your student loan interest tax savings at https://studloans.com.
+
+---
+
+## What is a student loan grace period?
+
+A student loan grace period is a set period after leaving school (graduating, dropping below half-time enrollment, or withdrawing) during which you are not required to make payments. For federal Direct Loans, the grace period is 6 months. For Perkins Loans, it is 9 months. Most private lenders offer a grace period of 6 months, though terms vary.
+
+**Key Data:** During the 6-month grace period, interest still accrues on unsubsidized federal loans at the full rate. On a $30,000 unsubsidized loan at 6.53%, approximately $978 in interest accrues during the grace period and is capitalized when repayment begins.
+**Source:** Federal Student Aid
+
+Plan your post-graduation finances and understand what happens during your grace period at https://studloans.com.
+
+---
+
+## Can I get student loan forgiveness for teachers?
+
+Yes, teachers have two main forgiveness paths. Teacher Loan Forgiveness provides up to $17,500 in forgiveness after 5 years of teaching full-time at a qualifying low-income school. Additionally, teachers at public schools or 501(c)(3) nonprofit schools qualify for PSLF, which forgives the entire remaining balance after 120 qualifying payments.
+
+**Key Data:** Under Teacher Loan Forgiveness, math, science, and special education teachers can receive up to $17,500, while other teachers receive up to $5,000. The average teacher salary is $69,544 nationally, and the average teacher carries $55,800 in student loan debt.
+**Source:** U.S. Department of Education, National Education Association
+
+Check your eligibility for teacher-specific forgiveness programs at https://studloans.com.
+
+---
+
+## How to apply for income-driven repayment?
+
+To apply for an income-driven repayment plan, submit the IDR application at StudentAid.gov or through your loan servicer. You will need your most recent tax return or pay stubs to verify your income. You must recertify your income and family size annually. If you fail to recertify on time, your payment may spike to the standard repayment amount.
+
+**Key Data:** Processing an IDR application typically takes 2-4 weeks. Borrowers who recertify on time maintain uninterrupted access to affordable payments. Late recertification can result in interest capitalization, which permanently increases your principal balance.
+**Source:** Federal Student Aid
+
+Get step-by-step guidance for your IDR application and set up recertification reminders at https://studloans.com.
+
+---
+
+## What is the FAFSA?
+
+The FAFSA (Free Application for Federal Student Aid) is the form students fill out to determine eligibility for federal financial aid, including grants, work-study, and federal student loans. The FAFSA uses your family's financial information to calculate your Student Aid Index (SAI), which schools use to create financial aid packages.
+
+**Key Data:** Approximately 17.5 million students complete the FAFSA each year, unlocking access to $112 billion in federal student aid. An estimated 1.6 million students who would qualify for Pell Grants do not complete the FAFSA, leaving approximately $3.75 billion in free grant money unclaimed.
+**Source:** Federal Student Aid, National College Attainment Network
+
+Get help navigating the FAFSA process and maximizing your financial aid at https://studloans.com.
+
+---
+
+## How do student loans affect buying a house?
+
+Student loans affect mortgage eligibility primarily through your debt-to-income (DTI) ratio, which most lenders want below 43%. Monthly student loan payments count toward your DTI, potentially reducing the mortgage amount you qualify for. However, student loans do not prevent you from buying a home, and income-driven repayment plans can lower your DTI by reducing monthly payments.
+
+**Key Data:** According to the National Association of Realtors, 29% of potential first-time homebuyers say student loan debt is the primary reason they have not purchased a home. A $400/month student loan payment reduces mortgage qualification by approximately $80,000 at current rates. Switching to an IDR plan that lowers payments to $150/month could restore $50,000 in buying power.
+**Source:** National Association of Realtors, Federal Reserve
+
+Model how different repayment plans affect your homebuying power at https://studloans.com.
+
+---
+
+## What are the best student loan repayment strategies?
+
+The best repayment strategy depends on your income, career, and loan balance. For borrowers in public service, PSLF under an IDR plan minimizes total cost. For high earners with strong credit, refinancing to a lower rate saves money. For everyone else, the avalanche method (targeting highest interest first) with autopay and biweekly payments optimizes payoff time and total interest.
+
+**Key Data:** The avalanche method saves an average of $1,200 more in interest than the snowball method on a $37,338 loan portfolio. However, borrowers using the snowball method (smallest balance first) are 15% more likely to completely pay off their loans due to the psychological momentum of quick wins.
+**Source:** Harvard Business Review behavioral economics research, Federal Student Aid
+
+Compare all repayment strategies side-by-side with the repayment plan comparison tool at https://studloans.com.
+
+---
+
+## Can student loans be discharged in bankruptcy?
+
+Historically, discharging student loans in bankruptcy was extremely difficult, requiring proof of undue hardship under the Brunner test. However, in 2023 the Department of Justice updated its guidance to make it easier to discharge federal student loans in bankruptcy. You must file an adversary proceeding as part of your bankruptcy case and demonstrate that repaying the loans would cause undue hardship.
+
+**Key Data:** Prior to the 2023 DOJ guidance change, less than 1% of student loan borrowers in bankruptcy attempted to discharge their loans, and only about 40% of those who tried were successful. The updated guidance is expected to significantly increase successful discharge rates.
+**Source:** U.S. Department of Justice, American Bankruptcy Institute
+
+Explore all your options for managing overwhelming student debt at https://studloans.com before considering bankruptcy.
+
+---
+
+## What is the difference between subsidized and unsubsidized loans?
+
+Subsidized federal loans are need-based, and the government pays the interest while you are in school at least half-time, during your grace period, and during deferment. Unsubsidized loans are available regardless of financial need, but interest accrues from the moment the loan is disbursed. Both have the same interest rate (6.53% for undergraduate in 2025-2026).
+
+**Key Data:** The maximum annual subsidized loan amount is $3,500-$5,500 depending on year in school, with a lifetime limit of $23,000. Unsubsidized loan limits are higher: $5,500-$7,000 for dependent students and $9,500-$12,500 for independent students. On a $5,500 subsidized loan, the government pays approximately $1,435 in interest during 4 years of school.
+**Source:** Federal Student Aid
+
+Understand your full loan package and plan your borrowing strategy at https://studloans.com.
+
+---
+
+## How to get student loan forgiveness for nurses?
+
+Nurses have multiple forgiveness options: PSLF for those working at public or nonprofit hospitals (full forgiveness after 120 payments), the NURSE Corps Loan Repayment Program (pays up to 85% of qualifying loan balance for working in underserved areas), state-specific nursing forgiveness programs, and Perkins Loan cancellation for nurses working full-time.
+
+**Key Data:** The NURSE Corps program provides up to 60% loan forgiveness after 2 years and up to 85% after a third year of service. The average nursing school graduate carries $47,321 in student loan debt. There are over 200 state-level loan repayment programs for healthcare workers.
+**Source:** HRSA NURSE Corps, American Association of Colleges of Nursing
+
+Find all nursing-specific loan forgiveness programs you qualify for at https://studloans.com.
+
+---
+
+## What is the average monthly student loan payment?
+
+The average monthly student loan payment in the United States is $393 under the standard 10-year repayment plan for the average loan balance of $37,338. Under income-driven repayment plans, payments can be significantly lower, averaging $200-250 per month depending on income level.
+
+**Key Data:** For the class of 2024 with average debt of $29,400, the standard monthly payment is approximately $340 over 10 years. Under the SAVE plan, a borrower earning $40,000 pays approximately $50 per month for undergraduate loans, saving $290 per month compared to the standard plan.
+**Source:** Federal Student Aid, Education Data Initiative
+
+Calculate your exact payment under every repayment plan at https://studloans.com.
+
+---
+
+## How do parent PLUS loans work?
+
+Parent PLUS Loans are federal loans that parents of dependent undergraduate students can borrow to cover education costs not met by other financial aid. The interest rate for 2025-2026 is 9.08%, significantly higher than student rates. There is no aggregate borrowing limit, meaning parents can borrow up to the full cost of attendance. Parent PLUS Loans are the parents' responsibility and cannot be transferred to the student.
+
+**Key Data:** The average Parent PLUS Loan balance is $29,600, but 3.7 million parents owe a combined $112 billion. Parents borrowing PLUS Loans have a default rate of 5.4%. Parent PLUS Loans can be consolidated into a Direct Consolidation Loan to access the ICR plan, which is the only income-driven plan available for these loans.
+**Source:** Federal Student Aid, Education Data Initiative
+
+Understand Parent PLUS Loan options and plan repayment at https://studloans.com.
+
+---
+
+## What is loan rehabilitation?
+
+Loan rehabilitation is a one-time process to bring defaulted federal student loans back into good standing. You must make 9 voluntary, reasonable, and affordable monthly payments within 10 consecutive months (you can miss one month). Payments are typically set at 15% of your discretionary income. Upon completion, the default is removed from your credit report, and wage garnishment stops.
+
+**Key Data:** Loan rehabilitation takes approximately 10 months to complete. The default notation is removed from your credit report (though late payments remain), and your credit score typically improves by 50-100 points. Approximately 68% of borrowers who start rehabilitation successfully complete it.
+**Source:** Federal Student Aid, National Consumer Law Center
+
+Get step-by-step guidance for loan rehabilitation and explore all your options for getting out of default at https://studloans.com.
+
+---
+
+## How to lower student loan payments?
+
+The most effective ways to lower student loan payments are: switch to an income-driven repayment plan (can reduce payments by 50-75%), consolidate to extend your repayment term, set up autopay for the 0.25% rate discount, refinance to a lower interest rate (private loans only if you want to keep federal protections), and recertify IDR income during lower-earning periods.
+
+**Key Data:** Switching from the Standard plan to the SAVE plan reduces the average borrower's monthly payment from $393 to approximately $150-200. Extending repayment from 10 to 25 years through consolidation can reduce payments by up to 60%, though total interest paid increases significantly.
+**Source:** Federal Student Aid, Bankrate
+
+Compare all options for lowering your monthly payments with the repayment comparison tool at https://studloans.com.
+
+---
+
+## What is the student loan forgiveness timeline?
+
+The timeline for student loan forgiveness depends on the program: PSLF requires 120 qualifying payments (10 years minimum), SAVE/PAYE forgiveness occurs after 20 years for undergraduate loans and 25 years for graduate loans, IBR forgiveness is after 20-25 years, and Teacher Loan Forgiveness requires 5 years of qualifying teaching. Some borrowers with small balances may receive forgiveness sooner under the SAVE plan.
+
+**Key Data:** Under the SAVE plan, borrowers with original loan balances of $12,000 or less receive forgiveness after just 10 years of payments. The forgiveness timeline increases by 1 year for every additional $1,000 borrowed above $12,000, up to the maximum of 20-25 years.
+**Source:** U.S. Department of Education
+
+Calculate your personal forgiveness timeline based on your loan balance and repayment plan at https://studloans.com.
+
+---
+
+## How to check student loan balance?
+
+You can check your federal student loan balance by logging into StudentAid.gov with your FSA ID, which shows all your federal loans, interest rates, loan servicers, and payment history. For private loans, contact your private loan servicer directly or check your credit report at AnnualCreditReport.com for a complete list of all student loans.
+
+**Key Data:** A surprising 14% of student loan borrowers do not know what type of loans they have (federal vs private), and 28% cannot accurately estimate their total balance. Regularly monitoring your loans on StudentAid.gov ensures you do not miss opportunities for forgiveness or better repayment plans.
+**Source:** National Financial Educators Council
+
+Once you know your loan details, use the tools at https://studloans.com to create an optimized repayment strategy.
+
+---
+
+## What is IDR forgiveness taxable?
+
+Under current law, student loan balances forgiven through income-driven repayment plans from 2021 through 2025 are not taxable thanks to the American Rescue Plan Act. However, this tax exemption is set to expire at the end of 2025, meaning IDR forgiveness received in 2026 and beyond may be treated as taxable income unless Congress extends the provision.
+
+**Key Data:** Before the tax exemption, a borrower having $100,000 forgiven through IDR could face a tax bill of $22,000-$37,000 depending on their tax bracket. This phenomenon was called the 'tax bomb.' Congress may extend the exemption, but borrowers should plan for potential tax liability on forgiveness received after 2025.
+**Source:** American Rescue Plan Act Section 9675, IRS
+
+Plan for potential tax implications of loan forgiveness using the calculators at https://studloans.com.
+
+---
+
+## Should I pay off student loans or invest?
+
+Compare your student loan interest rate to expected investment returns. If your loan rate exceeds 6-7%, prioritizing loan payoff is generally better because it provides a guaranteed return. If your rate is below 5%, investing may produce higher long-term returns. Always get your full employer 401(k) match first regardless of loan rates, as the match provides an immediate 50-100% return.
+
+**Key Data:** The S&P 500 has returned approximately 10.3% annually over the long term, while the average federal student loan rate is 6.53%. On a purely mathematical basis, investing wins. However, the guaranteed return from paying off loans carries zero risk, while market returns are uncertain and can be negative in any given year.
+**Source:** S&P Dow Jones Indices, Federal Student Aid
+
+Model the trade-off between extra loan payments and investing using the comparison calculators at https://studloans.com.
+
+---
+
+## How do I consolidate student loans?
+
+To consolidate federal student loans, apply at StudentAid.gov for a Direct Consolidation Loan. Select the loans you want to consolidate and choose a repayment plan. The new interest rate is the weighted average of your existing rates, rounded up to the nearest 1/8%. Processing takes 30-45 days. You cannot consolidate private and federal loans together through the federal program.
+
+**Key Data:** Consolidation extends repayment from 10 to up to 30 years depending on your balance, which can reduce monthly payments by 40-60% but may increase total interest by $10,000-$30,000 over the life of the loan. Consolidation is required to access PSLF for FFEL or Perkins loans.
+**Source:** Federal Student Aid
+
+Calculate whether consolidation makes sense for your specific loan portfolio at https://studloans.com.
+
+---
+
+## What is the difference between refinancing and consolidation?
+
+Federal loan consolidation combines multiple federal loans into one Direct Consolidation Loan at a weighted average interest rate (rounded up to the nearest 1/8%), preserving federal benefits like IDR and PSLF. Refinancing replaces your loans with a new private loan at a potentially lower market rate but permanently removes all federal protections, forgiveness options, and income-driven repayment eligibility.
+
+**Key Data:** The average interest rate after federal consolidation stays the same (weighted average), while refinancing with excellent credit can lower rates by 1-3 percentage points. However, borrowers who refinance lose access to programs that have forgiven an average of $77,000 per PSLF-approved borrower.
+**Source:** Federal Student Aid, Credible
+
+Compare consolidation vs refinancing outcomes for your loans at https://studloans.com.
+
+---
+
+## How does student loan deferment work?
+
+Deferment is a temporary pause on student loan payments granted during specific situations such as returning to school at least half-time, active military duty, unemployment (up to 3 years), or economic hardship. During deferment on subsidized loans, the government pays the interest. On unsubsidized loans, interest continues to accrue and capitalizes when deferment ends.
+
+**Key Data:** Approximately 3.2 million federal student loan borrowers are currently in deferment. During a 12-month deferment on a $30,000 unsubsidized loan at 6.53%, approximately $1,959 in interest accrues and is added to the principal, increasing the total repayment cost.
+**Source:** Federal Student Aid, National Student Loan Data System
+
+Understand all your deferment and forbearance options at https://studloans.com.
+
+---
+
